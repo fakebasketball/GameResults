@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<game terminated-early="1" uuid="a0e134d796b64eba9119760f79b9298e" version="1">
+<meta>
+<homeTeam>
+<team defStrat="MAN" discordId="293778672807182336" fullName="Gonzaga Bulldogs" id="gonzaga" offStrat="ISO" shortName="Bulldogs"/>
+</homeTeam>
+<awayTeam>
+<team defStrat="MAN" discordId="313464399111127044" fullName="Duke Blue Devils" id="duke" offStrat="ISO" shortName="Blue Devils"/>
+</awayTeam>
+<startTime>1564880610723</startTime>
+<gameTitle>NCAA - Battle 4 Atlantis | Session 2 | Gonzaga  vs Duke</gameTitle>
+<channelName>gonz-duke</channelName>
+</meta>
+<scores>
+<quarter away="8" home="20" q="F"/>
+<quarter away="8" home="20" q="1"/>
+<quarter away="0" home="0" q="2"/>
+<quarter away="0" home="0" q="3"/>
+<quarter away="0" home="0" q="4"/>
+<quarter away="0" home="0" q="O"/>
+</scores>
+<plays>
+<tipoff away="510" home="883" tip="59"/>
+<play numDef="770" numOff="77" offStrat="hurry" pos="away" pts="3" q="1" result="miss"/>
+<play numDef="774" numOff="360" pos="home" pts="3" q="1" result="turnover"/>
+<play numDef="100" numOff="993" offStrat="hurry" pos="away" pts="3" q="1" result="made"/>
+<play numDef="292" numOff="610" pos="home" pts="3" q="1" result="miss"/>
+<play numDef="610" numOff="84" offStrat="hurry" pos="home" pts="3" q="1" result="dunk"/>
+<play numDef="923" numOff="88" offStrat="hurry" pos="away" pts="3" q="1" result="made"/>
+<play numDef="773" numOff="555" pos="away" pts="3" q="1" result="foul"/>
+<playFT numDef="337" numOff="270" pos="away" q="1" throws="3" throwsMade="3"/>
+<play numDef="580" numOff="555" offStrat="hurry" pos="away" pts="3" q="1" result="made"/>
+<play numDef="7" numOff="360" pos="home" pts="3" q="1" result="miss"/>
+<play numDef="880" numOff="993" offStrat="hurry" pos="away" pts="3" q="1" result="made"/>
+<play numDef="88" numOff="123" pos="home" pts="3" q="1" result="made"/>
+<play numDef="123" numOff="559" offStrat="hurry" pos="away" pts="3" q="1" result="turnover"/>
+<play numDef="1" numOff="333" pos="home" pts="3" q="1" result="miss"/>
+<play numDef="1" numOff="888" offStrat="hurry" pos="away" pts="3" q="1" result="made"/>
+</plays>
+</game>
