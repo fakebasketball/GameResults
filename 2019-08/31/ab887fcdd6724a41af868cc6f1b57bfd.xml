@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<game game-type="1" terminated-early="1" uuid="ab887fcdd6724a41af868cc6f1b57bfd" version="1">
+<meta>
+<homeTeam>
+<team defStrat="MAN" discordId="341365184021004290" fullName="Middleburg Magic" id="341365184021004290" offStrat="ISO" shortName="Magic"/>
+</homeTeam>
+<awayTeam>
+<team defStrat="2-3" discordId="326553566909300737" fullName="Pensacola Pelicans" id="326553566909300737" offStrat="4-Out" shortName="Pelicans"/>
+</awayTeam>
+<startTime>1567265459514</startTime>
+<gameTitle>Pensacola Pelicans @ Middleburg Magic</gameTitle>
+<channelName>magic-vs-pelicans</channelName>
+</meta>
+<scores>
+<quarter away="0" home="3" q="F"/>
+<quarter away="0" home="3" q="1"/>
+<quarter away="0" home="0" q="2"/>
+<quarter away="0" home="0" q="3"/>
+<quarter away="0" home="0" q="4"/>
+<quarter away="0" home="0" q="O"/>
+</scores>
+<plays>
+<tipoff away="1" home="420" tip="568"/>
+<play numDef="200" numOff="111" offStrat="chew" pos="away" pts="3" q="1" result="made"/>
+</plays>
+</game>
