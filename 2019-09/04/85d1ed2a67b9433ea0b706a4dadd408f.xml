@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<game game-type="1" terminated-early="0" uuid="85d1ed2a67b9433ea0b706a4dadd408f" version="1">
+<meta>
+<homeTeam>
+<team defStrat="MAN" discordId="579703769894486016" fullName="Psycho Peacocks" id="579703769894486016" offStrat="4-Out" shortName="Peacocks"/>
+</homeTeam>
+<awayTeam>
+<team defStrat="MAN" discordId="341365184021004290" fullName="Middleburg Magic" id="341365184021004290" offStrat="ISO" shortName="Magic"/>
+</awayTeam>
+<startTime>1567558036503</startTime>
+<gameTitle>Middleburg Magic @ Psycho Peacocks</gameTitle>
+<channelName>peacocks-vs-magic</channelName>
+</meta>
+<scores>
+<quarter away="30" home="27" q="F"/>
+<quarter away="7" home="8" q="1"/>
+<quarter away="9" home="7" q="2"/>
+<quarter away="4" home="9" q="3"/>
+<quarter away="10" home="3" q="4"/>
+<quarter away="0" home="0" q="O"/>
+</scores>
+<plays>
+<tipoff away="420" home="1" tip="296"/>
+<play numDef="350" numOff="777" pos="home" pts="3" q="1" result="turnover"/>
+<play numDef="350" numOff="350" pos="home" pts="2" q="1" result="and1"/>
+<playFT numDef="1" numOff="785" pos="home" q="1" throws="1" throwsMade="1"/>
+<play numDef="750" numOff="211" pos="home" pts="3" q="1" result="turnover"/>
+<play numDef="904" numOff="250" pos="away" pts="3" q="1" result="miss"/>
+<play numDef="653" numOff="400" pos="away" pts="3" q="1" result="rebound"/>
+<play numDef="5" numOff="666" pos="home" pts="3" q="1" result="miss"/>
+<play numDef="999" numOff="567" pos="away" pts="2" q="1" result="turnover"/>
+<play numDef="250" numOff="111" pos="home" pts="3" q="1" result="made"/>
+<play numDef="922" numOff="850" pos="away" pts="3" q="1" result="made"/>
+<play numDef="835" numOff="616" pos="away" pts="3" q="1" result="foul"/>
+<playFT numDef="1000" numOff="404" pos="away" q="1" throws="3" throwsMade="1"/>
+<play numDef="875" numOff="250" pos="away" pts="3" q="1" result="miss"/>
+<play numDef="666" numOff="333" pos="home" pts="3" q="1" result="miss"/>
+<play numDef="606" numOff="800" pos="away" pts="2" q="1" result="made"/>
+<play numDef="400" numOff="233" pos="home" pts="3" q="1" result="made"/>
+<play numDef="569" numOff="200" offStrat="chew" pos="away" pts="2" q="1" result="miss"/>
+<play numDef="450" numOff="753" pos="home" pts="3" q="1" result="miss"/>
+<play numDef="920" numOff="750" pos="away" pts="2" q="2" result="made"/>
+<play numDef="450" numOff="69" pos="home" pts="3" q="2" result="miss"/>
+<play numDef="920" numOff="75" pos="away" pts="3" q="2" result="made"/>
+<play numDef="95" numOff="155" pos="home" pts="3" q="2" result="made"/>
+<play numDef="444" numOff="760" pos="away" pts="3" q="2" result="miss"/>
+<play numDef="650" numOff="808" pos="home" pts="3" q="2" result="made"/>
+<play numDef="1000" numOff="669" pos="away" pts="3" q="2" result="miss"/>
+<play numDef="30" numOff="753" pos="home" pts="3" q="2" result="miss"/>
+<play numDef="234" numOff="1" pos="home" pts="3" q="2" result="rebound"/>
+<play numDef="111" numOff="889" pos="home" pts="3" q="2" result="rebound"/>
+<play numDef="904" numOff="250" offStrat="chew" pos="home" pts="2" q="2" result="rebound"/>
+<play numDef="222" numOff="548" offStrat="chew" pos="home" pts="2" q="2" result="foul"/>
+<playFT numDef="101" numOff="1" pos="home" q="2" throws="2" throwsMade="2"/>
+<play numDef="763" numOff="742" pos="home" pts="3" q="2" result="made"/>
+<play numDef="111" numOff="872" pos="home" pts="3" q="2" result="rebound"/>
+<play numDef="389" numOff="615" pos="away" pts="3" q="3" result="foul"/>
+<playFT numDef="1000" numOff="440" pos="away" q="3" throws="3" throwsMade="1"/>
+<play numDef="888" numOff="480" pos="away" pts="2" q="3" result="miss"/>
+<play numDef="847" numOff="222" pos="home" pts="3" q="3" result="miss"/>
+<play numDef="789" numOff="890" pos="away" pts="3" q="3" result="made"/>
+<play numDef="679" numOff="234" pos="home" pts="3" q="3" result="turnover"/>
+<play numDef="99" numOff="890" pos="home" pts="3" q="3" result="foul"/>
+<playFT numDef="500" numOff="2" pos="home" q="3" throws="3" throwsMade="0"/>
+<play numDef="480" numOff="753" pos="home" pts="3" q="3" result="miss"/>
+<play numDef="101" numOff="783" pos="away" pts="3" q="3" result="miss"/>
+<play numDef="580" numOff="230" pos="home" pts="3" q="3" result="miss"/>
+<play numDef="277" numOff="230" pos="away" pts="3" q="3" result="made"/>
+<play numDef="800" numOff="217" pos="home" pts="3" q="3" result="turnover"/>
+<play numDef="808" numOff="217" pos="away" pts="3" q="3" result="turnover"/>
+<play numDef="560" numOff="420" pos="home" pts="3" q="3" result="made"/>
+<play numDef="569" numOff="650" pos="away" pts="3" q="3" result="made"/>
+<play numDef="780" numOff="69" offStrat="hurry" pos="home" pts="3" q="3" result="miss"/>
+<play numDef="588" numOff="250" offStrat="chew" pos="home" pts="2" q="3" result="rebound"/>
+<play numDef="7" numOff="65" pos="home" pts="3" q="3" result="made"/>
+<play numDef="675" numOff="420" pos="away" pts="3" q="4" result="rebound"/>
+<play numDef="350" numOff="240" pos="home" pts="3" q="4" result="made"/>
+<play numDef="707" numOff="380" pos="away" pts="3" q="4" result="miss"/>
+<play numDef="850" numOff="404" pos="home" pts="3" q="4" result="turnover"/>
+<play numDef="616" numOff="250" pos="away" pts="3" q="4" result="miss"/>
+<play numDef="666" numOff="555" pos="home" pts="3" q="4" result="made"/>
+<play numDef="222" numOff="580" pos="home" pts="2" q="4" result="rebound"/>
+<play numDef="105" numOff="470" pos="away" pts="3" q="4" result="miss"/>
+<play numDef="850" numOff="222" offStrat="chew" pos="home" pts="3" q="4" result="miss"/>
+<play numDef="904" numOff="222" pos="away" pts="3" q="4" result="miss"/>
+<play numDef="750" numOff="404" offStrat="chew" pos="home" pts="3" q="4" result="miss"/>
+<play numDef="616" numOff="781" pos="away" pts="3" q="4" result="made"/>
+<play numDef="645" numOff="444" offStrat="hurry" pos="home" pts="2" q="4" result="made"/>
+<play numDef="201" numOff="682" pos="home" pts="3" q="4" result="dunk"/>
+<play numDef="333" numOff="927" pos="away" pts="3" q="4" result="turnover"/>
+<play numDef="450" numOff="222" offStrat="chew" pos="away" pts="2" q="4" result="made"/>
+</plays>
+</game>
