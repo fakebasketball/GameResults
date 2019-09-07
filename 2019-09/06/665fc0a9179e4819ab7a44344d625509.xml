@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<game game-type="1" terminated-early="1" uuid="665fc0a9179e4819ab7a44344d625509" version="1">
+  <meta>
+    <homeTeam>
+      <team defStrat="MAN" discordId="114529305219956739" fullName="Cleveland Cavailers" id="114529305219956739" offStrat="ISO" shortName="Cavs"/>
+    </homeTeam>
+    <awayTeam>
+      <team defStrat="MAN" discordId="159733622239133698" fullName="Fighting 1212s" id="159733622239133698" offStrat="ISO" shortName="1212s"/>
+    </awayTeam>
+    <startTime>1567733249547</startTime>
+    <gameTitle>Fighting 1212s @ Cleveland Cavailers</gameTitle>
+    <channelName>cavs-vs-1212s</channelName>
+  </meta>
+  <scores>
+    <quarter away="16" home="9" q="F"/>
+    <quarter away="16" home="9" q="1"/>
+    <quarter away="0" home="0" q="2"/>
+    <quarter away="0" home="0" q="3"/>
+    <quarter away="0" home="0" q="4"/>
+  </scores>
+  <plays>
+    <tipoff away="500" home="111" tip="140"/>
+    <play numDef="222" numOff="222" pos="home" pts="3" q="1" result="and1"/>
+    <playFT numDef="222" numOff="771" pos="home" q="1" throws="1" throwsMade="0"/>
+    <play numDef="919" numOff="628" pos="home" pts="3" q="1" result="miss"/>
+    <play numDef="2" numOff="166" pos="away" pts="3" q="1" result="made"/>
+    <play numDef="61" numOff="29" pos="home" pts="3" q="1" result="made"/>
+    <play numDef="87" numOff="466" pos="away" pts="3" q="1" result="miss"/>
+    <play numDef="991" numOff="345" pos="home" pts="3" q="1" result="miss"/>
+    <play numDef="878" numOff="578" pos="away" pts="3" q="1" result="miss"/>
+    <play numDef="457" numOff="273" pos="home" pts="3" q="1" result="made"/>
+    <play numDef="712" numOff="666" pos="away" pts="3" q="1" result="made"/>
+    <play numDef="781" numOff="991" pos="away" pts="3" q="1" result="foul"/>
+    <playFT numDef="12" numOff="22" pos="away" q="1" throws="3" throwsMade="3"/>
+    <play numDef="12" numOff="713" pos="away" pts="3" q="1" result="miss"/>
+    <play numDef="617" numOff="178" pos="home" pts="3" q="1" result="turnover"/>
+    <play numDef="500" numOff="977" pos="home" pts="3" q="1" result="dunk"/>
+    <play numDef="687" numOff="450" pos="home" pts="3" q="1" result="rebound"/>
+    <play numDef="898" numOff="456" pos="away" pts="3" q="1" result="turnover"/>
+    <play numDef="213" numOff="2" pos="away" pts="3" q="1" result="foul"/>
+  </plays>
+</game>
