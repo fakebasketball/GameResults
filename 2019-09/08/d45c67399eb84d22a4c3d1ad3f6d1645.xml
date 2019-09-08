@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<game game-type="2" terminated-early="1" uuid="d45c67399eb84d22a4c3d1ad3f6d1645" version="1">
+  <meta>
+    <homeTeam>
+      <team defStrat="MAN" discordId="192366908098478090" fullName="Developers" id="192366908098478090" offStrat="ISO" shortName="Developers"/>
+    </homeTeam>
+    <awayTeam>
+      <team defStrat="MAN" discordId="364417838997438464" fullName="Hampshire Hares" id="364417838997438464" offStrat="4-Out" shortName="Hares"/>
+    </awayTeam>
+    <startTime>1567905086656</startTime>
+    <gameTitle>Scrim</gameTitle>
+    <channelName>hares-developers-scrim</channelName>
+  </meta>
+  <scores>
+    <quarter away="0" home="0" q="F"/>
+    <quarter away="0" home="0" q="1"/>
+    <quarter away="0" home="0" q="2"/>
+    <quarter away="0" home="0" q="3"/>
+    <quarter away="0" home="0" q="4"/>
+  </scores>
+  <plays>
+    <tipoff away="566" home="366" tip="881"/>
+  </plays>
+</game>
