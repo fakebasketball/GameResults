@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<game game-type="1" terminated-early="1" uuid="ec14233758ba4d1786eb0b3997bd0a59" version="1">
+  <meta>
+    <homeTeam>
+      <team defStrat="1-3-1" discordId="323992643929374721" fullName="Big Nutters" id="323992643929374721" offStrat="4-Out" shortName="Nutters"/>
+    </homeTeam>
+    <awayTeam>
+      <team defStrat="MAN" discordId="114529305219956739" fullName="Cleveland Cavailers" id="114529305219956739" offStrat="ISO" shortName="Cavs"/>
+    </awayTeam>
+    <startTime>1568144894227</startTime>
+    <gameTitle>Cleveland Cavailers @ Big Nutters</gameTitle>
+    <channelName>nutters-vs-cavs</channelName>
+  </meta>
+  <scores>
+    <quarter away="15" home="23" q="F"/>
+    <quarter away="12" home="21" q="1"/>
+    <quarter away="3" home="2" q="2"/>
+    <quarter away="0" home="0" q="3"/>
+    <quarter away="0" home="0" q="4"/>
+  </scores>
+  <plays>
+    <tipoff away="712" home="500" tip="265"/>
+    <play numDef="444" numOff="176" pos="away" pts="2" q="1" result="made"/>
+    <play numDef="99" numOff="618" pos="away" pts="3" q="1" result="dunk"/>
+    <play numDef="650" numOff="817" pos="home" pts="3" q="1" result="made"/>
+    <play numDef="76" numOff="767" pos="home" pts="2" q="1" result="foul"/>
+    <playFT numDef="68" numOff="500" pos="home" q="1" throws="2" throwsMade="1"/>
+    <play numDef="703" numOff="611" pos="home" pts="3" q="1" result="made"/>
+    <play numDef="548" numOff="420" pos="away" pts="2" q="1" result="made"/>
+    <play numDef="944" numOff="781" pos="home" pts="3" q="1" result="made"/>
+    <play numDef="626" numOff="975" pos="home" pts="2" q="1" result="rebound"/>
+    <play numDef="91" numOff="222" pos="away" pts="2" q="1" result="made"/>
+    <play numDef="857" numOff="378" pos="away" pts="3" q="1" result="dunk"/>
+    <play numDef="33" numOff="444" pos="home" pts="3" q="1" result="turnover"/>
+    <play numDef="410" numOff="434" pos="home" pts="2" q="1" result="and1"/>
+    <playFT numDef="368" numOff="402" pos="home" q="1" throws="1" throwsMade="1"/>
+    <play numDef="45" numOff="867" pos="home" pts="3" q="1" result="made"/>
+    <play numDef="37" numOff="960" pos="away" pts="2" q="1" result="made"/>
+    <play numDef="37" numOff="511" pos="away" pts="3" q="1" result="dunk"/>
+    <play numDef="946" numOff="631" pos="home" pts="3" q="1" result="miss"/>
+    <play numDef="578" numOff="508" pos="away" pts="3" q="1" result="made"/>
+    <play numDef="297" numOff="433" offStrat="hurry" pos="home" pts="3" q="2" result="made"/>
+    <play numDef="78" numOff="420" pos="home" pts="2" q="2" result="rebound"/>
+    <play numDef="661" numOff="250" pos="away" pts="2" q="2" result="miss"/>
+    <play numDef="111" numOff="617" pos="away" pts="3" q="2" result="dunk"/>
+  </plays>
+</game>
