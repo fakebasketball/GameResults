@@ -99,7 +99,7 @@
                     </xs:complexType>
                 </xs:element>
             </xs:all>
-            <xs:attribute name="version" type="xs:integer" fixed="2" use="required"/>
+            <xs:attribute name="version" type="xs:integer" fixed="2.0" use="required"/>
             <xs:attribute name="uuid" type="uuid" use="required"/>
             <xs:attribute name="terminated-early" type="xs:boolean" use="required"/>
             <xs:attribute name="game-type" type="xs:token" use="required"/>
