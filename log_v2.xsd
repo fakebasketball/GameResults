@@ -1,0 +1,157 @@
+<?xml version="1.0"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <xs:element name="game">
+        <xs:complexType>
+            <xs:all>
+                <xs:element name="meta">
+                    <xs:complexType>
+                        <xs:all>
+                            <xs:element name="homeTeam" type="teamWrap"/>
+                            <xs:element name="awayTeam" type="teamWrap"/>
+                            <xs:element name="startTime" type="xs:long"/>
+                            <xs:element name="gameTitle" type="xs:string"/>
+                            <xs:element name="channelName" type="xs:string"/>
+                        </xs:all>
+                    </xs:complexType>
+                </xs:element>
+                <xs:element name="scores">
+                    <xs:complexType>
+                        <xs:sequence minOccurs="5" maxOccurs="unbounded">
+                            <xs:element name="quarter">
+                                <xs:complexType>
+                                    <xs:attribute name="q" type="quarter" use="required"/>
+                                    <xs:attribute name="home" type="xs:nonNegativeInteger" use="required"/>
+                                    <xs:attribute name="away" type="xs:nonNegativeInteger" use="required"/>
+                                </xs:complexType>
+                            </xs:element>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+                <xs:element name="plays">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="tipoff">
+                                <xs:complexType>
+                                    <xs:attribute name="tip" type="xs:positiveInteger" use="required"/>
+                                    <xs:attribute name="home" type="xs:positiveInteger" use="required"/>
+                                    <xs:attribute name="away" type="xs:positiveInteger" use="required"/>
+                                </xs:complexType>
+                            </xs:element>
+                            <xs:sequence maxOccurs="unbounded">
+                                <xs:choice>
+                                    <xs:element name="play">
+                                        <xs:complexType>
+                                            <xs:attribute name="pos" type="homeOrAway" use="required"/>
+                                            <xs:attribute name="numDef" type="xs:positiveInteger" use="required"/>
+                                            <xs:attribute name="numOff" type="xs:positiveInteger" use="required"/>
+                                            <xs:attribute name="pts" use="required">
+                                                <xs:simpleType>
+                                                    <xs:restriction base="xs:token">
+                                                        <xs:pattern value="2|3|hc"/>
+                                                    </xs:restriction>
+                                                </xs:simpleType>
+                                            </xs:attribute>
+                                            <xs:attribute name="defFoul" type="xs:boolean" default="0"/>
+                                            <xs:attribute name="offStrat" default="normal" use="optional">
+                                                <xs:simpleType>
+                                                    <xs:restriction base="xs:token">
+                                                        <xs:pattern value="normal|chew|hurry"/>
+                                                    </xs:restriction>
+                                                </xs:simpleType>
+                                            </xs:attribute>
+                                            <xs:attribute name="result" use="required">
+                                                <xs:simpleType>
+                                                    <xs:restriction base="xs:token">
+                                                        <xs:pattern value="and1|made|foul|rebound|miss|turnover|dunk|outOfTime"/>
+                                                    </xs:restriction>
+                                                </xs:simpleType>
+                                            </xs:attribute>
+                                            <xs:attribute name="q" type="quarter" use="required"/>
+                                        </xs:complexType>
+                                    </xs:element>
+                                    <xs:element name="playFT">
+                                        <xs:complexType>
+                                            <xs:attribute name="pos" type="homeOrAway" use="required"/>
+                                            <xs:attribute name="numDef" type="xs:positiveInteger" use="required"/>
+                                            <xs:attribute name="numOff" type="xs:positiveInteger" use="required"/>
+                                            <xs:attribute name="throws" use="required">
+                                                <xs:simpleType>
+                                                    <xs:restriction base="xs:positiveInteger">
+                                                        <xs:minInclusive value="1"/>
+                                                        <xs:maxInclusive value="3"/>
+                                                    </xs:restriction>
+                                                </xs:simpleType>
+                                            </xs:attribute>
+                                            <xs:attribute name="throwsMade" use="required">
+                                                <xs:simpleType>
+                                                    <xs:restriction base="xs:nonNegativeInteger">
+                                                        <xs:minInclusive value="0"/>
+                                                        <xs:maxInclusive value="3"/>
+                                                    </xs:restriction>
+                                                </xs:simpleType>
+                                            </xs:attribute>
+                                            <xs:attribute name="q" type="quarter" use="required"/>
+                                        </xs:complexType>
+                                    </xs:element>
+                                </xs:choice>
+                            </xs:sequence>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+            </xs:all>
+            <xs:attribute name="version" type="xs:integer" fixed="2" use="required"/>
+            <xs:attribute name="uuid" type="uuid" use="required"/>
+            <xs:attribute name="terminated-early" type="xs:boolean" use="required"/>
+            <xs:attribute name="game-type" type="xs:token" use="required"/>
+        </xs:complexType>
+    </xs:element>
+
+    <xs:simpleType name="uuid">
+        <xs:restriction base="xs:token">
+            <xs:pattern value="[0-9a-f]{32}"/>
+        </xs:restriction>
+    </xs:simpleType>
+
+    <xs:simpleType name="quarter">
+        <xs:restriction base="xs:token">
+            <xs:pattern value="(F|1|2|3|4|(O[0-9]+))"/>
+        </xs:restriction>
+    </xs:simpleType>
+
+    <xs:simpleType name="homeOrAway">
+        <xs:restriction base="xs:token">
+            <xs:pattern value="home|away"/>
+        </xs:restriction>
+    </xs:simpleType>
+
+    <xs:complexType name="teamWrap">
+        <xs:sequence>
+            <xs:element name="team" type="team"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <xs:complexType name="team">
+        <xs:attribute name="id" type="xs:token" use="required"/>
+        <xs:attribute name="discordId" type="xs:token" use="required"/>
+        <xs:attribute name="fullName" type="xs:normalizedString" use="required"/>
+        <xs:attribute name="shortName" type="xs:normalizedString" use="required"/>
+        <xs:attribute name="offStrat" use="required">
+            <xs:simpleType>
+                <xs:restriction base="xs:token">
+                    <xs:enumeration value="5-Out"/>
+                    <xs:enumeration value="4-Out"/>
+                    <xs:enumeration value="ISO"/>
+                </xs:restriction>
+            </xs:simpleType>
+        </xs:attribute>
+        <xs:attribute name="defStrat" use="required">
+            <xs:simpleType>
+                <xs:restriction base="xs:token">
+                    <xs:enumeration value="1-3-1"/>
+                    <xs:enumeration value="MAN"/>
+                    <xs:enumeration value="2-3"/>
+                </xs:restriction>
+            </xs:simpleType>
+        </xs:attribute>
+    </xs:complexType>
+</xs:schema>
