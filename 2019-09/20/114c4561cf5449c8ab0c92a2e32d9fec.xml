@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<game game-type="auto" terminated-early="1" uuid="114c4561cf5449c8ab0c92a2e32d9fec" version="2.0">
+  <meta>
+    <homeTeam>
+      <team defStrat="MAN" discordId="341365184021004290" fullName="Middleburg Magic" id="341365184021004290" offStrat="ISO" shortName="Magic"/>
+    </homeTeam>
+    <awayTeam>
+      <team defStrat="2-3" discordId="612494299120140295" fullName="Ohio Katz" id="612494299120140295" offStrat="4-Out" shortName="Katz"/>
+    </awayTeam>
+    <startTime>1569014399840</startTime>
+    <gameTitle>Ohio Katz @ Middleburg Magic</gameTitle>
+    <channelName>magic-vs-katz</channelName>
+  </meta>
+  <scores>
+    <quarter away="20" home="24" q="F"/>
+    <quarter away="20" home="10" q="1"/>
+    <quarter away="0" home="14" q="2"/>
+    <quarter away="0" home="0" q="3"/>
+    <quarter away="0" home="0" q="4"/>
+  </scores>
+  <plays>
+    <tipoff away="823" home="420" tip="715"/>
+    <play numDef="904" numOff="922" pos="away" pts="3" q="1" result="and1"/>
+    <playFT numDef="1" numOff="821" pos="away" q="1" throws="1" throwsMade="1"/>
+    <play numDef="832" numOff="707" pos="away" pts="3" q="1" result="made"/>
+    <play numDef="111" numOff="927" pos="home" pts="3" q="1" result="made"/>
+    <play numDef="822" numOff="666" pos="away" pts="3" q="1" result="made"/>
+    <play numDef="822" numOff="926" pos="home" pts="3" q="1" result="made"/>
+    <play numDef="829" numOff="107" pos="away" pts="3" q="1" result="miss"/>
+    <play numDef="505" numOff="826" pos="home" pts="3" q="1" result="miss"/>
+    <play numDef="725" numOff="240" pos="home" pts="3" q="1" result="dunk"/>
+    <play numDef="921" numOff="707" pos="away" pts="3" q="1" result="made"/>
+    <play numDef="111" numOff="942" pos="home" pts="2" q="1" result="made"/>
+    <play numDef="316" numOff="616" pos="away" pts="3" q="1" result="miss"/>
+    <play numDef="1" numOff="932" pos="home" pts="3" q="1" result="made"/>
+    <play numDef="962" numOff="304" pos="away" pts="3" q="1" result="miss"/>
+    <play numDef="904" numOff="925" pos="home" pts="3" q="1" result="made"/>
+    <play numDef="825" numOff="555" pos="away" pts="3" q="1" result="miss"/>
+    <play numDef="825" numOff="957" pos="away" pts="3" q="1" result="made"/>
+    <play numDef="926" numOff="890" pos="away" pts="3" q="2" result="made"/>
+    <play numDef="399" numOff="921" pos="away" pts="3" q="2" result="dunk"/>
+    <playFT numDef="926" numOff="678" pos="home" q="2" throws="2" throwsMade="2"/>
+  </plays>
+</game>
