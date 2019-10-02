@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<game game-type="auto" terminated-early="1" uuid="4f6d355603234ba6a4937e4b916f1879" version="2.0">
+  <meta>
+    <homeTeam>
+      <team defStrat="MAN" discordId="579703769894486016" fullName="Psycho Peacocks" id="579703769894486016" offStrat="4-Out" shortName="Peacocks"/>
+    </homeTeam>
+    <awayTeam>
+      <team defStrat="MAN" discordId="192366908098478090" fullName="Developers" id="192366908098478090" offStrat="ISO" shortName="Developers"/>
+    </awayTeam>
+    <startTime>1569733067209</startTime>
+    <gameTitle>Developers @ Psycho Peacocks</gameTitle>
+    <channelName>peacocks-vs-developers</channelName>
+  </meta>
+  <scores>
+    <quarter away="24" home="4" q="F"/>
+    <quarter away="24" home="4" q="1"/>
+    <quarter away="0" home="0" q="2"/>
+    <quarter away="0" home="0" q="3"/>
+    <quarter away="0" home="0" q="4"/>
+  </scores>
+  <plays>
+    <tipoff away="103" home="666" tip="771"/>
+    <play numDef="456" numOff="600" pos="away" pts="2" q="1" result="made"/>
+    <play numDef="300" numOff="491" pos="home" pts="3" q="1" result="made"/>
+    <play numDef="341" numOff="900" pos="away" pts="3" q="1" result="turnover"/>
+    <play numDef="666" numOff="823" pos="home" pts="3" q="1" result="made"/>
+    <play numDef="234" numOff="800" pos="away" pts="2" q="1" result="turnover"/>
+    <play numDef="300" numOff="918" pos="home" pts="3" q="1" result="miss"/>
+    <play numDef="136" numOff="700" pos="away" pts="3" q="1" result="turnover"/>
+    <play numDef="555" numOff="401" pos="home" pts="3" q="1" result="made"/>
+    <play numDef="321" numOff="800" pos="home" pts="3" q="1" result="dunk"/>
+    <play numDef="833" numOff="400" pos="away" pts="2" q="1" result="turnover"/>
+    <play numDef="666" numOff="1" pos="home" pts="3" q="1" result="miss"/>
+    <play numDef="673" numOff="400" pos="away" pts="2" q="1" result="made"/>
+    <play numDef="750" numOff="901" pos="home" pts="3" q="1" result="made"/>
+    <play numDef="254" numOff="800" pos="away" pts="3" q="1" result="turnover"/>
+    <play numDef="100" numOff="7" pos="home" pts="3" q="1" result="made"/>
+    <playFT numDef="700" numOff="482" pos="away" q="1" throws="2" throwsMade="2"/>
+  </plays>
+</game>
