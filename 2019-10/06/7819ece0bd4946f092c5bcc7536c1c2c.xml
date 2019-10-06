@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<game game-type="tiponly" terminated-early="0" uuid="7819ece0bd4946f092c5bcc7536c1c2c" version="2.0">
+  <meta>
+    <homeTeam>
+      <team defStrat="MAN" discordId="402249979651031052" fullName="Dabbleton Dabbers" id="402249979651031052" offStrat="5-Out" shortName="Dabbers"/>
+    </homeTeam>
+    <awayTeam>
+      <team defStrat="MAN" discordId="597898996530413583" fullName="Alabama Crimson Tide" id="597898996530413583" offStrat="ISO" shortName="Crimson Tide"/>
+    </awayTeam>
+    <startTime>1570321260617</startTime>
+    <gameTitle>tipgame2</gameTitle>
+    <channelName>tipgame2</channelName>
+  </meta>
+  <scores>
+    <quarter away="0" home="0" q="F"/>
+    <quarter away="0" home="0" q="1"/>
+    <quarter away="0" home="0" q="2"/>
+    <quarter away="0" home="0" q="3"/>
+    <quarter away="0" home="0" q="4"/>
+  </scores>
+  <plays>
+    <tipoff away="420" home="69" tip="301"/>
+  </plays>
+</game>
