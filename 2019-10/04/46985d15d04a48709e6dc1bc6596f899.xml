@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<game game-type="auto" terminated-early="1" uuid="46985d15d04a48709e6dc1bc6596f899" version="2.0">
+  <meta>
+    <homeTeam>
+      <team defStrat="1-3-1" discordId="208429483059970050" fullName="New Jersey Swamp Dragons" id="208429483059970050" offStrat="5-Out" shortName="Swamp Dragons"/>
+    </homeTeam>
+    <awayTeam>
+      <team defStrat="MAN" discordId="402249979651031052" fullName="Dabbleton Dabbers" id="402249979651031052" offStrat="5-Out" shortName="Dabbers"/>
+    </awayTeam>
+    <startTime>1570153498801</startTime>
+    <gameTitle>Dabbleton Dabbers @ New Jersey Swamp Dragons</gameTitle>
+    <channelName>swamp dragons-vs-dabbers</channelName>
+  </meta>
+  <scores>
+    <quarter away="18" home="21" q="F"/>
+    <quarter away="14" home="15" q="1"/>
+    <quarter away="4" home="6" q="2"/>
+    <quarter away="0" home="0" q="3"/>
+    <quarter away="0" home="0" q="4"/>
+  </scores>
+  <plays>
+    <tipoff away="69" home="68" tip="55"/>
+    <play numDef="569" numOff="462" pos="away" pts="2" q="1" result="made"/>
+    <playFT numDef="69" numOff="854" pos="home" q="1" throws="2" throwsMade="2"/>
+    <play numDef="877" numOff="340" pos="home" pts="2" q="1" result="turnover"/>
+    <play numDef="1" numOff="199" pos="home" pts="3" q="1" result="foul"/>
+    <playFT numDef="666" numOff="250" pos="home" q="1" throws="3" throwsMade="1"/>
+    <play numDef="388" numOff="500" pos="home" pts="2" q="1" result="made"/>
+    <play numDef="788" numOff="363" pos="away" pts="2" q="1" result="miss"/>
+    <play numDef="778" numOff="200" pos="home" pts="2" q="1" result="miss"/>
+    <play numDef="250" numOff="704" pos="away" pts="2" q="1" result="turnover"/>
+    <play numDef="884" numOff="1" pos="home" pts="2" q="1" result="made"/>
+    <play numDef="560" numOff="179" pos="away" pts="3" q="1" result="miss"/>
+    <play numDef="528" numOff="430" pos="home" pts="2" q="1" result="made"/>
+    <play numDef="600" numOff="816" pos="away" pts="2" q="1" result="made"/>
+    <play numDef="209" numOff="500" pos="home" pts="2" q="1" result="made"/>
+    <play numDef="230" numOff="812" pos="away" pts="3" q="1" result="turnover"/>
+    <play numDef="184" numOff="1" pos="home" pts="2" q="1" result="made"/>
+    <play numDef="501" numOff="994" pos="home" pts="2" q="1" result="dunk"/>
+    <play numDef="230" numOff="299" pos="away" pts="3" q="1" result="made"/>
+    <play numDef="655" numOff="780" pos="home" pts="2" q="1" result="made"/>
+    <play numDef="100" numOff="139" pos="away" pts="2" q="2" result="made"/>
+    <play numDef="386" numOff="600" pos="home" pts="2" q="2" result="made"/>
+    <play numDef="69" numOff="399" pos="home" pts="2" q="2" result="foul"/>
+    <playFT numDef="670" numOff="874" pos="home" q="2" throws="2" throwsMade="2"/>
+    <play numDef="270" numOff="200" pos="home" pts="2" q="2" result="made"/>
+    <play numDef="450" numOff="219" pos="away" pts="2" q="2" result="made"/>
+  </plays>
+</game>
