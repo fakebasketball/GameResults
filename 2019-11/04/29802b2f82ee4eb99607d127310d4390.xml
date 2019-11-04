@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<game game-type="scrim" terminated-early="1" uuid="29802b2f82ee4eb99607d127310d4390" version="2.0">
+  <meta>
+    <homeTeam>
+      <team defStrat="MAN" discordId="192366908098478090" fullName="Developers" id="192366908098478090" offStrat="ISO" shortName="Developers"/>
+    </homeTeam>
+    <awayTeam>
+      <team defStrat="1-3-1" discordId="443829816752340994" fullName="Catalina Winemixers" id="443829816752340994" offStrat="5-Out" shortName="Winemixers"/>
+    </awayTeam>
+    <startTime>1572901267846</startTime>
+    <gameTitle>Scrim</gameTitle>
+    <channelName>developers-winemixers-scrim</channelName>
+  </meta>
+  <scores>
+    <quarter away="2" home="3" q="F"/>
+    <quarter away="2" home="3" q="1"/>
+    <quarter away="0" home="0" q="2"/>
+    <quarter away="0" home="0" q="3"/>
+    <quarter away="0" home="0" q="4"/>
+  </scores>
+  <plays>
+    <tipoff away="500" home="413" tip="117"/>
+    <play numDef="2" numOff="103" pos="away" pts="3" q="1" result="made"/>
+    <play numDef="13" numOff="25" pos="away" pts="2" q="1" result="and1"/>
+  </plays>
+</game>
