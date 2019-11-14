@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<game game-type="auto" terminated-early="1" uuid="845d0a92573e471a90d44e4654d849d8" version="2.0">
+  <meta>
+    <homeTeam>
+      <team defStrat="MAN" discordId="535837035202609153" fullName="Chicago Freeze" id="535837035202609153" offStrat="4-Out" shortName="Freeze"/>
+    </homeTeam>
+    <awayTeam>
+      <team defStrat="MAN" discordId="176033947308916736" fullName="Denver Nuggets" id="176033947308916736" offStrat="4-Out" shortName="Nuggets"/>
+    </awayTeam>
+    <startTime>1573564753246</startTime>
+    <gameTitle>Denver Nuggets @ Chicago Freeze</gameTitle>
+    <channelName>freeze-vs-nuggets</channelName>
+  </meta>
+  <scores>
+    <quarter away="2" home="7" q="F"/>
+    <quarter away="2" home="7" q="1"/>
+    <quarter away="0" home="0" q="2"/>
+    <quarter away="0" home="0" q="3"/>
+    <quarter away="0" home="0" q="4"/>
+  </scores>
+  <plays>
+    <tipoff away="388" home="999" tip="584"/>
+    <play numDef="777" numOff="45" pos="home" pts="2" q="1" result="made"/>
+    <play numDef="7" numOff="300" pos="away" pts="2" q="1" result="made"/>
+  </plays>
+</game>
