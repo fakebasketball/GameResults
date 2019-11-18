@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<game game-type="auto" terminated-early="1" uuid="8fba9b4e441e414bb475cbd6cc0473e5" version="2.0">
+  <meta>
+    <homeTeam>
+      <team defStrat="2-3" discordId="287662129673142273" fullName="Florida Apollos" id="287662129673142273" offStrat="ISO" shortName="Apollos"/>
+    </homeTeam>
+    <awayTeam>
+      <team defStrat="MAN" discordId="535837035202609153" fullName="Chicago Freeze" id="535837035202609153" offStrat="4-Out" shortName="Freeze"/>
+    </awayTeam>
+    <startTime>1573825902670</startTime>
+    <gameTitle>Chicago Freeze @ Florida Apollos</gameTitle>
+    <channelName>apollos-vs-freeze</channelName>
+  </meta>
+  <scores>
+    <quarter away="20" home="27" q="F"/>
+    <quarter away="20" home="17" q="1"/>
+    <quarter away="0" home="10" q="2"/>
+    <quarter away="0" home="0" q="3"/>
+    <quarter away="0" home="0" q="4"/>
+  </scores>
+  <plays>
+    <tipoff away="999" home="392" tip="35"/>
+    <play numDef="382" numOff="999" offStrat="hurry" pos="home" pts="3" q="1" result="miss"/>
+    <play numDef="555" numOff="939" pos="away" pts="3" q="1" result="miss"/>
+    <play numDef="111" numOff="300" pos="home" pts="2" q="1" result="made"/>
+    <play numDef="456" numOff="211" pos="home" pts="3" q="1" result="rebound"/>
+    <play numDef="501" numOff="253" pos="home" pts="3" q="1" result="rebound"/>
+    <play numDef="134" numOff="330" pos="away" pts="3" q="1" result="made"/>
+    <play numDef="7" numOff="123" pos="home" pts="3" q="1" result="made"/>
+    <play numDef="501" numOff="96" pos="away" pts="2" q="1" result="miss"/>
+    <playFT numDef="123" numOff="99" pos="home" q="1" throws="2" throwsMade="2"/>
+    <play numDef="111" numOff="333" offStrat="hurry" pos="home" pts="2" q="1" result="made"/>
+    <playFT numDef="333" numOff="565" pos="away" q="1" throws="2" throwsMade="2"/>
+    <play numDef="523" numOff="939" pos="away" pts="3" q="1" result="turnover"/>
+    <play numDef="444" numOff="500" offStrat="hurry" pos="home" pts="3" q="1" result="made"/>
+    <play numDef="459" numOff="929" pos="home" pts="3" q="1" result="dunk"/>
+    <play numDef="500" numOff="545" pos="away" pts="3" q="1" result="made"/>
+    <play numDef="1" numOff="100" offStrat="hurry" pos="home" pts="3" q="1" result="made"/>
+    <play numDef="999" numOff="393" pos="away" pts="3" q="1" result="miss"/>
+    <play numDef="223" numOff="1" offStrat="chew" pos="home" pts="2" q="1" result="made"/>
+    <play numDef="2" numOff="20" pos="home" pts="3" q="1" result="and1"/>
+    <playFT numDef="2" numOff="99" pos="home" q="1" throws="1" throwsMade="1"/>
+    <play numDef="342" numOff="500" offStrat="hurry" pos="home" pts="3" q="1" result="made"/>
+    <play numDef="1000" numOff="2" pos="home" pts="3" q="2" result="and1"/>
+    <playFT numDef="500" numOff="440" pos="home" q="2" throws="1" throwsMade="1"/>
+    <play numDef="99" numOff="454" offStrat="hurry" pos="home" pts="3" q="2" result="miss"/>
+    <play numDef="333" numOff="939" pos="away" pts="3" q="2" result="miss"/>
+    <play numDef="866" numOff="246" offStrat="chew" pos="home" pts="2" q="2" result="miss"/>
+    <play numDef="654" numOff="828" pos="away" pts="3" q="2" result="made"/>
+    <play numDef="174" numOff="652" pos="away" pts="3" q="2" result="dunk"/>
+  </plays>
+</game>
