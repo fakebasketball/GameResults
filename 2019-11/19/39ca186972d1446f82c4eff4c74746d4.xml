@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<game game-type="auto" terminated-early="1" uuid="39ca186972d1446f82c4eff4c74746d4" version="2.0">
+  <meta>
+    <homeTeam>
+      <team defStrat="2-3" discordId="326127044163403776" fullName="Monroe Warbirds" id="326127044163403776" offStrat="5-Out" shortName="Warbirds"/>
+    </homeTeam>
+    <awayTeam>
+      <team defStrat="2-3" discordId="387226344393670656" fullName="Thunder Down Under" id="387226344393670656" offStrat="5-Out" shortName="Thunder"/>
+    </awayTeam>
+    <startTime>1574137743167</startTime>
+    <gameTitle>Thunder Down Under @ Monroe Warbirds</gameTitle>
+    <channelName>warbirds-vs-thunder</channelName>
+  </meta>
+  <scores>
+    <quarter away="11" home="2" q="F"/>
+    <quarter away="11" home="2" q="1"/>
+    <quarter away="0" home="0" q="2"/>
+    <quarter away="0" home="0" q="3"/>
+    <quarter away="0" home="0" q="4"/>
+  </scores>
+  <plays>
+    <tipoff away="2" home="3" tip="837"/>
+    <play numDef="1" numOff="467" pos="home" pts="2" q="1" result="turnover"/>
+    <play numDef="701" numOff="1" pos="home" pts="2" q="1" result="foul"/>
+    <playFT numDef="405" numOff="340" pos="home" q="1" throws="2" throwsMade="2"/>
+    <play numDef="800" numOff="700" pos="home" pts="2" q="1" result="made"/>
+    <play numDef="333" numOff="9" pos="away" pts="3" q="1" result="miss"/>
+    <play numDef="69" numOff="454" pos="home" pts="2" q="1" result="miss"/>
+    <playFT numDef="670" numOff="611" pos="away" q="1" throws="2" throwsMade="2"/>
+  </plays>
+</game>
