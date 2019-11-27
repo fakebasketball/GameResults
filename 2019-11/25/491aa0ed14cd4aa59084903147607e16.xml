@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<game game-type="auto" terminated-early="1" uuid="491aa0ed14cd4aa59084903147607e16" version="2.0">
+  <meta>
+    <homeTeam>
+      <team defStrat="MAN" discordId="293075857747214336" fullName="Pensacola Bay Sharks" id="293075857747214336" offStrat="ISO" shortName="Bay Sharks"/>
+    </homeTeam>
+    <awayTeam>
+      <team defStrat="2-3" discordId="326127044163403776" fullName="Monroe Warbirds" id="326127044163403776" offStrat="5-Out" shortName="Warbirds"/>
+    </awayTeam>
+    <startTime>1574693373569</startTime>
+    <gameTitle>Monroe Warbirds @ Pensacola Bay Sharks</gameTitle>
+    <channelName>bay sharks-vs-warbirds</channelName>
+  </meta>
+  <scores>
+    <quarter away="0" home="5" q="F"/>
+    <quarter away="0" home="5" q="1"/>
+    <quarter away="0" home="0" q="2"/>
+    <quarter away="0" home="0" q="3"/>
+    <quarter away="0" home="0" q="4"/>
+  </scores>
+  <plays>
+    <tipoff away="69" home="32" tip="457"/>
+  </plays>
+</game>
