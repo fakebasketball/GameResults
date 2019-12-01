@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<game game-type="auto" terminated-early="1" uuid="7d5331e9339d4891a5af6671c12ed27a" version="2.0">
+  <meta>
+    <homeTeam>
+      <team defStrat="MAN" discordId="251117327792209920" fullName="Chicago Bulls" id="251117327792209920" offStrat="ISO" shortName="Bulls"/>
+    </homeTeam>
+    <awayTeam>
+      <team defStrat="1-3-1" discordId="443280943579660288" fullName="El Paso Pacifiers" id="443280943579660288" offStrat="4-Out" shortName="Pacifiers"/>
+    </awayTeam>
+    <startTime>1574537203715</startTime>
+    <gameTitle>El Paso Pacifiers @ Chicago Bulls</gameTitle>
+    <channelName>bulls-vs-pacifiers</channelName>
+  </meta>
+  <scores>
+    <quarter away="33" home="28" q="F"/>
+    <quarter away="14" home="12" q="1"/>
+    <quarter away="10" home="14" q="2"/>
+    <quarter away="9" home="2" q="3"/>
+    <quarter away="0" home="0" q="4"/>
+  </scores>
+  <plays>
+    <tipoff away="69" home="420" tip="421"/>
+    <play numDef="60" numOff="420" pos="away" pts="3" q="1" result="miss"/>
+    <play numDef="1" numOff="69" pos="home" pts="2" q="1" result="made"/>
+    <play numDef="333" numOff="555" pos="home" pts="3" q="1" result="rebound"/>
+    <play numDef="1" numOff="101" pos="away" pts="2" q="1" result="made"/>
+    <play numDef="231" numOff="999" pos="home" pts="2" q="1" result="made"/>
+    <play numDef="45" numOff="111" pos="away" pts="3" q="1" result="made"/>
+    <play numDef="123" numOff="5" pos="home" pts="2" q="1" result="made"/>
+    <play numDef="777" numOff="877" pos="away" pts="2" q="1" result="made"/>
+    <play numDef="666" numOff="444" pos="home" pts="2" q="1" result="made"/>
+    <play numDef="555" numOff="380" pos="away" pts="3" q="1" result="made"/>
+    <play numDef="1" numOff="999" pos="away" pts="2" q="1" result="and1"/>
+    <playFT numDef="234" numOff="69" pos="away" q="1" throws="1" throwsMade="1"/>
+    <play numDef="555" numOff="701" pos="away" pts="2" q="1" result="made"/>
+    <play numDef="400" numOff="69" pos="away" pts="2" q="1" result="rebound"/>
+    <play numDef="123" numOff="69" pos="home" pts="2" q="1" result="made"/>
+    <play numDef="569" numOff="250" pos="away" pts="3" q="1" result="miss"/>
+    <play numDef="801" numOff="399" pos="home" pts="2" q="2" result="miss"/>
+    <play numDef="19" numOff="200" pos="away" pts="3" q="2" result="made"/>
+    <play numDef="300" numOff="59" pos="home" pts="2" q="2" result="made"/>
+    <play numDef="999" numOff="666" pos="home" pts="2" q="2" result="rebound"/>
+    <play numDef="699" numOff="210" pos="home" pts="3" q="2" result="dunk"/>
+    <play numDef="699" numOff="555" pos="away" pts="2" q="2" result="made"/>
+    <play numDef="420" numOff="999" pos="home" pts="2" q="2" result="turnover"/>
+    <play numDef="89" numOff="111" pos="away" pts="3" q="2" result="made"/>
+    <play numDef="666" numOff="69" pos="home" pts="2" q="2" result="miss"/>
+    <play numDef="33" numOff="420" pos="away" pts="2" q="2" result="miss"/>
+    <play numDef="1" numOff="69" pos="home" pts="2" q="2" result="made"/>
+    <play numDef="777" numOff="999" pos="away" pts="2" q="2" result="made"/>
+    <play numDef="420" numOff="555" pos="home" pts="2" q="2" result="made"/>
+    <play numDef="31" numOff="800" pos="away" pts="2" q="2" result="made"/>
+    <play numDef="420" numOff="999" pos="home" pts="2" q="2" result="turnover"/>
+    <play numDef="999" numOff="777" offStrat="chew" pos="away" pts="2" q="2" result="made"/>
+    <play numDef="1" numOff="51" pos="home" pts="2" q="3" result="made"/>
+    <play numDef="144" numOff="420" pos="away" pts="2" q="3" result="made"/>
+    <play numDef="901" numOff="814" pos="home" pts="2" q="3" result="made"/>
+    <play numDef="666" numOff="300" pos="away" pts="2" q="3" result="miss"/>
+  </plays>
+</game>
