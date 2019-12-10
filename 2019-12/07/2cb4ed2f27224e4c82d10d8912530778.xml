@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<game game-type="auto" terminated-early="1" uuid="2cb4ed2f27224e4c82d10d8912530778" version="2.0">
+  <meta>
+    <homeTeam>
+      <team defStrat="2-3" discordId="326553566909300737" fullName="Flint Tropics" id="326553566909300737" offStrat="4-Out" shortName="Tropics"/>
+    </homeTeam>
+    <awayTeam>
+      <team defStrat="MAN" discordId="121871011091185664" fullName="Raleigh Reapers" id="121871011091185664" offStrat="ISO" shortName="Reapers"/>
+    </awayTeam>
+    <startTime>1575724738421</startTime>
+    <gameTitle>Raleigh Reapers @ Flint Tropics</gameTitle>
+    <channelName>tropics-vs-reapers</channelName>
+  </meta>
+  <scores>
+    <quarter away="12" home="6" q="F"/>
+    <quarter away="12" home="6" q="1"/>
+    <quarter away="0" home="0" q="2"/>
+    <quarter away="0" home="0" q="3"/>
+    <quarter away="0" home="0" q="4"/>
+  </scores>
+  <plays>
+    <tipoff away="512" home="111" tip="362"/>
+    <play numDef="200" numOff="638" pos="home" pts="2" q="1" result="turnover"/>
+    <playFT numDef="122" numOff="777" pos="away" q="1" throws="2" throwsMade="1"/>
+    <play numDef="420" numOff="222" pos="away" pts="2" q="1" result="made"/>
+    <play numDef="455" numOff="738" pos="away" pts="2" q="1" result="foul"/>
+    <playFT numDef="2" numOff="566" pos="away" q="1" throws="2" throwsMade="1"/>
+    <play numDef="92" numOff="22" pos="away" pts="2" q="1" result="made"/>
+    <play numDef="566" numOff="613" offStrat="chew" pos="home" pts="3" q="1" result="made"/>
+    <play numDef="99" numOff="222" offStrat="chew" pos="away" pts="2" q="1" result="made"/>
+    <play numDef="666" numOff="420" offStrat="chew" pos="away" pts="3" q="1" result="rebound"/>
+  </plays>
+</game>
