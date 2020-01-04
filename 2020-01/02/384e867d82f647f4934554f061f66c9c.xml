@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<game game-type="manual" terminated-early="1" uuid="384e867d82f647f4934554f061f66c9c" version="2.0">
+  <meta>
+    <homeTeam>
+      <team defStrat="2-3" discordId="612494299120140295" fullName="Ohio Katz" id="612494299120140295" offStrat="4-Out" shortName="Katz"/>
+    </homeTeam>
+    <awayTeam>
+      <team defStrat="MAN" discordId="466035881682141185" fullName="Loch Ness Monsters" id="466035881682141185" offStrat="4-Out" shortName="Monsters"/>
+    </awayTeam>
+    <startTime>1577992591040</startTime>
+    <gameTitle>Zealand</gameTitle>
+    <channelName>Canada-New</channelName>
+  </meta>
+  <scores>
+    <quarter away="23" home="16" q="F"/>
+    <quarter away="13" home="16" q="1"/>
+    <quarter away="10" home="0" q="2"/>
+    <quarter away="0" home="0" q="3"/>
+    <quarter away="0" home="0" q="4"/>
+  </scores>
+  <plays>
+    <tipoff away="365" home="922" tip="989"/>
+    <play numDef="823" numOff="900" pos="away" pts="3" q="1" result="made"/>
+    <play numDef="555" numOff="211" pos="away" pts="2" q="1" result="rebound"/>
+    <play numDef="734" numOff="214" pos="away" pts="2" q="1" result="dunk"/>
+    <play numDef="883" numOff="934" pos="home" pts="3" q="1" result="made"/>
+    <play numDef="1" numOff="852" pos="away" pts="3" q="1" result="made"/>
+    <play numDef="255" numOff="434" pos="home" pts="2" q="1" result="made"/>
+    <play numDef="734" numOff="962" pos="home" pts="3" q="1" result="rebound"/>
+    <play numDef="166" numOff="722" pos="away" pts="3" q="1" result="turnover"/>
+    <play numDef="837" numOff="360" pos="away" pts="2" q="1" result="dunk"/>
+    <play numDef="777" numOff="22" pos="home" pts="2" q="1" result="made"/>
+    <play numDef="666" numOff="825" pos="away" pts="3" q="1" result="made"/>
+    <play numDef="888" numOff="500" pos="home" pts="2" q="1" result="miss"/>
+    <play numDef="1" numOff="900" pos="away" pts="3" q="1" result="made"/>
+    <play numDef="911" numOff="767" pos="home" pts="3" q="1" result="made"/>
+    <play numDef="420" numOff="866" pos="away" pts="3" q="1" result="turnover"/>
+    <play numDef="42" numOff="100" offStrat="chew" pos="home" pts="3" q="1" result="made"/>
+    <play numDef="676" numOff="922" pos="home" pts="3" q="1" result="rebound"/>
+    <play numDef="644" numOff="872" pos="away" pts="3" q="2" result="foul"/>
+    <playFT numDef="999" numOff="899" pos="away" q="2" throws="3" throwsMade="3"/>
+    <play numDef="222" numOff="599" pos="away" pts="3" q="2" result="miss"/>
+    <playFT numDef="999" numOff="420" pos="away" q="2" throws="2" throwsMade="1"/>
+  </plays>
+</game>
