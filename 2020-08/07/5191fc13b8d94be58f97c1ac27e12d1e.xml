@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<game game-type="auto" terminated-early="1" uuid="5191fc13b8d94be58f97c1ac27e12d1e" version="2.0">
+  <meta>
+    <homeTeam>
+      <team defStrat="MAN" discordId="501849193338503168" fullName="Air Force Falcons" id="501849193338503168" offStrat="4-Out" shortName="Falcons"/>
+    </homeTeam>
+    <awayTeam>
+      <team defStrat="2-3" discordId="287662129673142273" fullName="Poland" id="287662129673142273" offStrat="ISO" shortName="Poland"/>
+    </awayTeam>
+    <startTime>1596825378209</startTime>
+    <gameTitle>Poland @ Air Force Falcons</gameTitle>
+    <channelName>falcons-vs-poland</channelName>
+  </meta>
+  <scores>
+    <quarter away="5" home="0" q="F"/>
+    <quarter away="5" home="0" q="1"/>
+    <quarter away="0" home="0" q="2"/>
+    <quarter away="0" home="0" q="3"/>
+    <quarter away="0" home="0" q="4"/>
+  </scores>
+  <plays>
+    <tipoff away="68" home="69" tip="393"/>
+    <play numDef="778" numOff="388" pos="away" pts="2" q="1" result="miss"/>
+  </plays>
+</game>

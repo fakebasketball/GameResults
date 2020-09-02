@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<game game-type="auto" terminated-early="1" uuid="553878df7e604499b4ab965229c53fd7" version="2.0">
+  <meta>
+    <homeTeam>
+      <team defStrat="1-3-1" discordId="482253546939613205" fullName="Orlando Comets" id="482253546939613205" offStrat="5-Out" shortName="Comets"/>
+    </homeTeam>
+    <awayTeam>
+      <team defStrat="1-3-1" discordId="623164301267435541" fullName="Sacramento Ravens" id="623164301267435541" offStrat="ISO" shortName="Ravens"/>
+    </awayTeam>
+    <startTime>1591999500253</startTime>
+    <gameTitle>Sacramento Ravens @ Orlando Comets</gameTitle>
+    <channelName>comets-vs-ravens</channelName>
+  </meta>
+  <scores>
+    <quarter away="1" home="0" q="F"/>
+    <quarter away="1" home="0" q="1"/>
+    <quarter away="0" home="0" q="2"/>
+    <quarter away="0" home="0" q="3"/>
+    <quarter away="0" home="0" q="4"/>
+  </scores>
+  <plays>
+    <tipoff away="42" home="1" tip="948"/>
+    <play numDef="69" numOff="727" pos="home" pts="2" q="1" result="foul"/>
+  </plays>
+</game>

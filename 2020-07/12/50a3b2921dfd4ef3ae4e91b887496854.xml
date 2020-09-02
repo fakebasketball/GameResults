@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<game game-type="auto" terminated-early="1" uuid="50a3b2921dfd4ef3ae4e91b887496854" version="2.0">
+  <meta>
+    <homeTeam>
+      <team defStrat="1-3-1" discordId="208429483059970050" fullName="New Jersey Swamp Dragons" id="208429483059970050" offStrat="5-Out" shortName="Swamp Dragons"/>
+    </homeTeam>
+    <awayTeam>
+      <team defStrat="1-3-1" discordId="521532303508242432" fullName="Washington Cougars" id="521532303508242432" offStrat="5-Out" shortName="Cougars"/>
+    </awayTeam>
+    <startTime>1594568845362</startTime>
+    <gameTitle>Washington Cougars @ New Jersey Swamp Dragons</gameTitle>
+    <channelName>swamp dragons-vs-cougars</channelName>
+  </meta>
+  <scores>
+    <quarter away="14" home="26" q="F"/>
+    <quarter away="7" home="12" q="1"/>
+    <quarter away="7" home="14" q="2"/>
+    <quarter away="0" home="0" q="3"/>
+    <quarter away="0" home="0" q="4"/>
+  </scores>
+  <plays>
+    <tipoff away="669" home="69" tip="943"/>
+    <play numDef="101" numOff="47" pos="away" pts="2" q="1" result="made"/>
+    <play numDef="212" numOff="777" pos="home" pts="2" q="1" result="miss"/>
+    <play numDef="185" numOff="809" pos="home" pts="2" q="1" result="rebound"/>
+    <play numDef="300" numOff="471" pos="away" pts="2" q="1" result="made"/>
+    <play numDef="130" numOff="900" pos="home" pts="2" q="1" result="made"/>
+    <play numDef="333" numOff="283" pos="away" pts="2" q="1" result="made"/>
+    <play numDef="226" numOff="1000" pos="home" pts="2" q="1" result="made"/>
+    <play numDef="999" numOff="54" pos="away" pts="2" q="1" result="made"/>
+    <play numDef="688" numOff="444" pos="home" pts="2" q="1" result="made"/>
+    <play numDef="1" numOff="462" pos="away" pts="2" q="1" result="turnover"/>
+    <play numDef="917" numOff="682" pos="home" pts="3" q="1" result="miss"/>
+    <play numDef="225" numOff="596" pos="home" pts="2" q="1" result="rebound"/>
+    <play numDef="1" numOff="971" pos="away" pts="2" q="1" result="made"/>
+    <play numDef="367" numOff="669" pos="home" pts="3" q="1" result="miss"/>
+    <play numDef="669" numOff="556" offStrat="chew" pos="away" pts="2" q="1" result="made"/>
+    <play numDef="283" numOff="299" pos="away" pts="2" q="2" result="and1"/>
+    <playFT numDef="69" numOff="880" pos="away" q="2" throws="1" throwsMade="1"/>
+    <play numDef="666" numOff="717" pos="away" pts="2" q="2" result="made"/>
+    <play numDef="84" numOff="20" pos="home" pts="2" q="2" result="made"/>
+    <play numDef="779" numOff="765" pos="home" pts="2" q="2" result="and1"/>
+    <playFT numDef="83" numOff="54" pos="home" q="2" throws="1" throwsMade="1"/>
+    <play numDef="923" numOff="400" pos="away" pts="3" q="2" result="dunk"/>
+    <play numDef="295" numOff="545" pos="home" pts="3" q="2" result="miss"/>
+    <play numDef="149" numOff="374" pos="away" pts="2" q="2" result="made"/>
+  </plays>
+</game>

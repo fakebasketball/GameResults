@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<game game-type="auto" terminated-early="1" uuid="31cf496e3e864b51932ca7b3bf89f5f4" version="2.0">
+  <meta>
+    <homeTeam>
+      <team defStrat="MAN" discordId="547481526485516310" fullName="Tampa Bay Gators" id="547481526485516310" offStrat="5-Out" shortName="Gators"/>
+    </homeTeam>
+    <awayTeam>
+      <team defStrat="MAN" discordId="501849193338503168" fullName="Air Force Falcons" id="501849193338503168" offStrat="4-Out" shortName="Falcons"/>
+    </awayTeam>
+    <startTime>1595931472532</startTime>
+    <gameTitle>Air Force Falcons @ Tampa Bay Gators</gameTitle>
+    <channelName>gators-vs-falcons</channelName>
+  </meta>
+  <scores>
+    <quarter away="8" home="9" q="F"/>
+    <quarter away="8" home="9" q="1"/>
+    <quarter away="0" home="0" q="2"/>
+    <quarter away="0" home="0" q="3"/>
+    <quarter away="0" home="0" q="4"/>
+  </scores>
+  <plays>
+    <tipoff away="333" home="581" tip="773"/>
+    <play numDef="586" numOff="956" pos="away" pts="2" q="1" result="miss"/>
+    <play numDef="587" numOff="404" pos="home" pts="2" q="1" result="made"/>
+    <play numDef="586" numOff="103" pos="home" pts="2" q="1" result="dunk"/>
+    <play numDef="979" numOff="241" pos="away" pts="2" q="1" result="made"/>
+    <play numDef="710" numOff="409" pos="away" pts="2" q="1" result="foul"/>
+    <playFT numDef="286" numOff="333" pos="away" q="1" throws="2" throwsMade="2"/>
+    <play numDef="69" numOff="106" pos="away" pts="2" q="1" result="made"/>
+    <play numDef="1" numOff="777" pos="home" pts="2" q="1" result="made"/>
+  </plays>
+</game>
