@@ -1,0 +1,47 @@
+<!ELEMENT game (meta,scores,plays)>
+<!ATTLIST game version CDATA #FIXED "1">
+<!ATTLIST game uuid CDATA #REQUIRED>
+<!ATTLIST game terminated-early (0|1) "0">
+<!ATTLIST game game-type CDATA #REQUIRED>
+
+<!ELEMENT meta (homeTeam,awayTeam,startTime,gameTitle,channelName)>
+    <!ELEMENT homeTeam (team)>
+    <!ELEMENT awayTeam (team)>
+        <!ELEMENT team EMPTY>
+            <!ATTLIST team id CDATA #REQUIRED>
+            <!ATTLIST team discordId CDATA #REQUIRED>
+            <!ATTLIST team fullName CDATA #REQUIRED>
+            <!ATTLIST team shortName CDATA #REQUIRED>
+            <!ATTLIST team offStrat (5-OUT|4-OUT|ISO) #REQUIRED>
+            <!ATTLIST team defStrat (1-3-1|MAN|2-3) #REQUIRED>
+    <!ELEMENT startTime (#PCDATA)>
+    <!ELEMENT gameTitle (#PCDATA)>
+    <!ELEMENT channelName (#PCDATA)>
+
+<!ELEMENT scores (quarter,quarter,quarter,quarter,quarter)>
+    <!ELEMENT quarter EMPTY>
+        <!ATTLIST quarter q (F|1|2|3|4|O) #REQUIRED>
+        <!ATTLIST quarter home CDATA #REQUIRED>
+        <!ATTLIST quarter away CDATA #REQUIRED>
+
+<!ELEMENT plays (tipoff,(play,playFT?)+)>
+    <!ELEMENT tipoff EMPTY>
+        <!ATTLIST tipoff tip CDATA #REQUIRED>
+        <!ATTLIST tipoff home CDATA #REQUIRED>
+        <!ATTLIST tipoff away CDATA #REQUIRED>
+    <!ELEMENT play EMPTY>
+        <!ATTLIST play pos (home|away) #REQUIRED>
+        <!ATTLIST play numDef CDATA #REQUIRED>
+        <!ATTLIST play numOff CDATA #REQUIRED>
+        <!ATTLIST play pts (2|3|hc) #REQUIRED>
+        <!ATTLIST play defFoul (0|1) "0">
+        <!ATTLIST play offStrat (chew|hurry) #IMPLIED>
+        <!ATTLIST play result (and1|made|foul|rebound|miss|turnover|dunk|outOfTime) #REQUIRED> <!-- In if defFoul is true, it will either be (made|foul|dunk) -->
+        <!ATTLIST play q (1|2|3|4|O) #REQUIRED>
+    <!ELEMENT playFT EMPTY>
+        <!ATTLIST play pos (home|away) #REQUIRED>
+        <!ATTLIST play numDef CDATA #REQUIRED>
+        <!ATTLIST play numOff CDATA #REQUIRED>
+        <!ATTLIST play throws (1|2|3) #REQUIRED>
+        <!ATTLIST play throwsMade (1|2|3) #REQUIRED>
+        <!ATTLIST play q (1|2|3|4|O) #REQUIRED>
