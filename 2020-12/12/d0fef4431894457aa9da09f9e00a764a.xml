@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<game game-type="scrim" terminated-early="true" uuid="d0fef4431894457aa9da09f9e00a764a" version="2.1">
+  <meta>
+    <homeTeam>
+      <team defStrat="1-3-1" discordId="725151960449417246" fullName="Seminoles" id="floridast" offStrat="4-Out" shortName="Florida State"/>
+    </homeTeam>
+    <awayTeam>
+      <team defStrat="2-3" discordId="200681587472334848" fullName="Orange" id="syracuse" offStrat="5-Out" shortName="Syracuse"/>
+    </awayTeam>
+    <startTime>1607806851482</startTime>
+    <gameTitle>Preseason Test 2</gameTitle>
+    <channelName>fsu-vs-syr-restart</channelName>
+  </meta>
+  <scores>
+    <quarter away="5" home="10" q="F"/>
+    <quarter away="5" home="10" q="1"/>
+    <quarter away="0" home="0" q="2"/>
+    <quarter away="0" home="0" q="3"/>
+    <quarter away="0" home="0" q="4"/>
+  </scores>
+  <plays>
+    <tipoff away="69" home="738" tip="186"/>
+    <play numDef="763" numOff="250" pos="away" pts="2" q="1" result="dunk"/>
+    <play numDef="786" numOff="500" pos="home" pts="2" q="1" result="made"/>
+    <play numDef="23" numOff="873" pos="away" pts="2" q="1" result="made"/>
+    <play numDef="872" numOff="765" pos="home" pts="2" q="1" result="made"/>
+    <play numDef="111" numOff="873" pos="home" pts="3" q="1" result="rebound"/>
+  </plays>
+</game>
