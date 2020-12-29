@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<game game-type="season" terminated-early="true" uuid="17334af29cfd4edb9355809f16cd4204" version="2.1">
+  <meta>
+    <homeTeam>
+      <team defStrat="2-3" discordId="769646456000086036" fullName="Golden Bears" id="cal" offStrat="4-Out" shortName="California"/>
+    </homeTeam>
+    <awayTeam>
+      <team defStrat="1-3-1" discordId="399056415156600832" fullName="Golden Gophers" id="minnesota" offStrat="ISO" shortName="Minnesota"/>
+    </awayTeam>
+    <startTime>1609022409404</startTime>
+    <gameTitle>Week One</gameTitle>
+    <channelName>cal-vs-minn-rs</channelName>
+  </meta>
+  <scores>
+    <quarter away="20" home="10" q="F"/>
+    <quarter away="20" home="10" q="1"/>
+    <quarter away="0" home="0" q="2"/>
+    <quarter away="0" home="0" q="3"/>
+    <quarter away="0" home="0" q="4"/>
+  </scores>
+  <plays>
+    <tipoff away="79" home="500" tip="229"/>
+    <play numDef="750" numOff="812" pos="home" pts="3" q="1" result="made"/>
+    <play numDef="173" numOff="500" pos="home" pts="2" q="1" result="foul"/>
+    <playFT numDef="747" numOff="500" pos="home" q="1" throws="2" throwsMade="2"/>
+    <play numDef="457" numOff="303" pos="home" pts="3" q="1" result="made"/>
+    <play numDef="88" numOff="650" pos="away" pts="2" q="1" result="turnover"/>
+    <play numDef="1" numOff="700" pos="home" pts="3" q="1" result="miss"/>
+    <play numDef="7" numOff="420" pos="away" pts="2" q="1" result="miss"/>
+    <play numDef="900" numOff="700" pos="home" pts="3" q="1" result="made"/>
+    <play numDef="899" numOff="615" pos="away" pts="2" q="1" result="made"/>
+    <play numDef="444" numOff="65" pos="home" pts="3" q="1" result="miss"/>
+    <play numDef="466" numOff="333" pos="away" pts="2" q="1" result="made"/>
+    <play numDef="1" numOff="75" pos="home" pts="3" q="1" result="made"/>
+    <play numDef="75" numOff="500" pos="away" pts="3" q="1" result="turnover"/>
+    <play numDef="500" numOff="183" pos="home" pts="3" q="1" result="miss"/>
+    <play numDef="818" numOff="450" offStrat="hurry" pos="home" pts="2" q="1" result="rebound"/>
+    <play numDef="44" numOff="250" offStrat="hurry" pos="away" pts="2" q="1" result="made"/>
+    <play numDef="800" numOff="424" pos="home" pts="3" q="1" result="miss"/>
+    <play numDef="321" numOff="650" offStrat="hurry" pos="home" pts="2" q="1" result="foul"/>
+    <playFT numDef="111" numOff="300" pos="home" q="1" throws="2" throwsMade="2"/>
+    <play numDef="588" numOff="843" pos="away" pts="3" q="1" result="rebound"/>
+  </plays>
+</game>
