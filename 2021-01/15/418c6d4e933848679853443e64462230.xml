@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<game game-type="scrim" terminated-early="true" uuid="418c6d4e933848679853443e64462230" version="2.1">
+  <meta>
+    <homeTeam>
+      <team defStrat="2-3" discordId="287662129673142273" fullName="Wildcats" id="northwestern" offStrat="ISO" shortName="Northwestern"/>
+    </homeTeam>
+    <awayTeam>
+      <team defStrat="MAN" discordId="275360113198366730" fullName="Jaguars" id="iupui" offStrat="5-Out" shortName="IUPUI"/>
+    </awayTeam>
+    <startTime>1610754746818</startTime>
+    <gameTitle>Scrim</gameTitle>
+    <channelName>iupui-northwestern-scrim</channelName>
+  </meta>
+  <scores>
+    <quarter away="19" home="16" q="F"/>
+    <quarter away="16" home="12" q="1"/>
+    <quarter away="3" home="4" q="2"/>
+    <quarter away="0" home="0" q="3"/>
+    <quarter away="0" home="0" q="4"/>
+  </scores>
+  <plays>
+    <tipoff away="222" home="75" tip="88"/>
+    <play numDef="602" numOff="87" pos="home" pts="3" q="1" result="dunk"/>
+    <play numDef="603" numOff="124" pos="home" pts="3" q="1" result="dunk"/>
+    <play numDef="812" numOff="77" pos="home" pts="3" q="1" result="miss"/>
+    <play numDef="927" numOff="511" pos="away" pts="2" q="1" result="miss"/>
+    <play numDef="28" numOff="361" pos="home" pts="3" q="1" result="miss"/>
+    <play numDef="507" numOff="700" pos="away" pts="2" q="1" result="made"/>
+    <play defStrat="press" numDef="330" numOff="103" pos="home" pts="3" q="1" result="made"/>
+    <play numDef="64" numOff="890" pos="away" pts="2" q="1" result="made"/>
+    <play numDef="1" numOff="747" pos="home" pts="3" q="1" result="rebound"/>
+    <play numDef="450" numOff="88" pos="home" pts="3" q="1" result="miss"/>
+    <play numDef="787" numOff="680" pos="away" pts="2" q="1" result="made"/>
+    <play numDef="112" numOff="1" pos="home" pts="3" q="1" result="made"/>
+    <play numDef="686" numOff="800" pos="away" pts="2" q="1" result="made"/>
+    <play numDef="545" numOff="870" pos="home" pts="3" q="1" result="miss"/>
+    <play numDef="323" numOff="400" pos="away" pts="2" q="1" result="made"/>
+    <play numDef="81" numOff="1" pos="home" pts="3" q="1" result="made"/>
+    <play numDef="100" numOff="660" pos="away" pts="2" q="1" result="turnover"/>
+    <play numDef="660" numOff="766" pos="home" pts="3" q="1" result="made"/>
+    <play numDef="99" numOff="210" offStrat="chew" pos="away" pts="2" q="1" result="made"/>
+    <play numDef="900" numOff="688" pos="home" pts="3" q="2" result="foul"/>
+    <playFT numDef="81" numOff="786" pos="home" q="2" throws="3" throwsMade="2"/>
+    <play numDef="415" numOff="895" pos="away" pts="2" q="2" result="dunk"/>
+    <play numDef="716" numOff="895" pos="away" pts="2" q="2" result="made"/>
+    <play numDef="340" numOff="71" pos="home" pts="3" q="2" result="miss"/>
+  </plays>
+</game>
