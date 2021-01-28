@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<game game-type="season" terminated-early="true" uuid="30e341b7e7df4b2bb3a207b4c1a6889f" version="2.1">
+  <meta>
+    <homeTeam>
+      <team defStrat="MAN" discordId="488882827077746688" fullName="Red Raiders" id="txtech" offStrat="5-Out" shortName="Texas Tech"/>
+    </homeTeam>
+    <awayTeam>
+      <team defStrat="2-3" discordId="326127044163403776" fullName="Bulldogs" id="georgia" offStrat="5-Out" shortName="Georgia"/>
+    </awayTeam>
+    <startTime>1611620060926</startTime>
+    <gameTitle>Week Five</gameTitle>
+    <channelName>ttu-vs-uga</channelName>
+  </meta>
+  <scores>
+    <quarter away="27" home="18" q="F"/>
+    <quarter away="13" home="11" q="1"/>
+    <quarter away="14" home="7" q="2"/>
+    <quarter away="0" home="0" q="3"/>
+    <quarter away="0" home="0" q="4"/>
+  </scores>
+  <plays>
+    <tipoff away="800" home="900" tip="722"/>
+    <play numDef="174" numOff="800" pos="away" pts="2" q="1" result="miss"/>
+    <play numDef="777" numOff="278" offStrat="chew" pos="home" pts="2" q="1" result="dunk"/>
+    <play numDef="999" numOff="499" pos="home" pts="3" q="1" result="dunkAnd1"/>
+    <playFT numDef="711" numOff="666" pos="away" q="1" throws="1" throwsMade="1"/>
+    <play numDef="800" numOff="651" pos="home" pts="3" q="1" result="made"/>
+    <play numDef="1" numOff="1" offStrat="chew" pos="away" pts="2" q="1" result="and1made"/>
+    <play numDef="999" numOff="333" offStrat="chew" pos="home" pts="2" q="1" result="rebound"/>
+    <play numDef="680" numOff="433" pos="home" pts="3" q="1" result="rebound"/>
+    <play numDef="7" numOff="277" offStrat="chew" pos="home" pts="2" q="1" result="made"/>
+    <play numDef="999" numOff="400" offStrat="chew" pos="away" pts="2" q="1" result="miss"/>
+    <play numDef="444" numOff="311" offStrat="chew" pos="home" pts="2" q="1" result="made"/>
+    <play numDef="822" numOff="888" pos="away" pts="2" q="1" result="made"/>
+    <play numDef="500" numOff="442" offStrat="chew" pos="home" pts="2" q="1" result="made"/>
+    <play numDef="920" numOff="5" pos="away" pts="2" q="1" result="made"/>
+    <play numDef="666" numOff="911" offStrat="chew" pos="home" pts="2" q="1" result="made"/>
+    <play numDef="668" numOff="1" pos="away" pts="2" q="1" result="foul"/>
+    <playFT numDef="444" numOff="804" pos="away" q="1" throws="2" throwsMade="1"/>
+    <play numDef="450" numOff="229" offStrat="chew" pos="home" pts="2" q="1" result="made"/>
+    <play numDef="711" numOff="8" pos="away" pts="2" q="2" result="made"/>
+    <play numDef="110" numOff="17" offStrat="chew" pos="home" pts="2" q="2" result="made"/>
+    <play numDef="38" numOff="800" pos="away" pts="2" q="2" result="made"/>
+    <play numDef="999" numOff="777" pos="home" pts="3" q="2" result="rebound"/>
+    <play numDef="442" numOff="333" pos="home" pts="3" q="2" result="made"/>
+    <play defStrat="press" numDef="11" numOff="17" pos="away" pts="2" q="2" result="and1"/>
+    <playFT numDef="111" numOff="1" pos="away" q="2" throws="1" throwsMade="1"/>
+    <play numDef="100" numOff="931" offStrat="chew" pos="home" pts="2" q="2" result="made"/>
+    <play numDef="785" numOff="854" pos="away" pts="2" q="2" result="made"/>
+    <play numDef="1" numOff="458" offStrat="chew" pos="home" pts="2" q="2" result="turnover"/>
+    <play numDef="777" numOff="121" offStrat="chew" pos="away" pts="2" q="2" result="rebound"/>
+    <play numDef="123" numOff="9" offStrat="chew" pos="away" pts="2" q="2" result="made"/>
+    <play numDef="800" numOff="411" offStrat="chew" pos="home" pts="2" q="2" result="miss"/>
+    <play numDef="1000" numOff="100" offStrat="chew" pos="away" pts="2" q="2" result="made"/>
+  </plays>
+</game>
