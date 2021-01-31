@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<game game-type="season" terminated-early="true" uuid="fe63082a989147c99fea967a2b041887" version="2.1">
+  <meta>
+    <homeTeam>
+      <team defStrat="1-3-1" discordId="466035881682141185" fullName="Mean Green" id="northtexas" offStrat="4-Out" shortName="North Texas"/>
+    </homeTeam>
+    <awayTeam>
+      <team defStrat="MAN" discordId="295235174877233163" fullName="Lions" id="columbia" offStrat="ISO" shortName="Columbia"/>
+    </awayTeam>
+    <startTime>1612022876146</startTime>
+    <gameTitle>Week Six (Mid-Major)</gameTitle>
+    <channelName>unt-vs-clmb</channelName>
+  </meta>
+  <scores>
+    <quarter away="7" home="6" q="F"/>
+    <quarter away="7" home="6" q="1"/>
+    <quarter away="0" home="0" q="2"/>
+    <quarter away="0" home="0" q="3"/>
+    <quarter away="0" home="0" q="4"/>
+  </scores>
+  <plays>
+    <tipoff away="698" home="699" tip="882"/>
+    <play numDef="817" numOff="202" pos="home" pts="2" q="1" result="miss"/>
+    <play numDef="385" numOff="6" pos="away" pts="2" q="1" result="miss"/>
+    <play numDef="9" numOff="69" pos="home" pts="2" q="1" result="made"/>
+    <play numDef="120" numOff="93" pos="away" pts="3" q="1" result="made"/>
+    <play numDef="777" numOff="698" pos="home" pts="2" q="1" result="made"/>
+    <play numDef="920" numOff="332" pos="away" pts="3" q="1" result="turnover"/>
+    <play numDef="333" numOff="577" pos="home" pts="3" q="1" result="rebound"/>
+    <play numDef="428" numOff="10" pos="home" pts="3" q="1" result="turnover"/>
+    <play numDef="920" numOff="75" pos="away" pts="2" q="1" result="made"/>
+    <play numDef="7" numOff="679" pos="home" pts="2" q="1" result="foul"/>
+    <playFT numDef="75" numOff="1" pos="home" q="1" throws="2" throwsMade="2"/>
+    <play numDef="28" numOff="57" pos="away" pts="2" q="1" result="and1"/>
+  </plays>
+</game>
