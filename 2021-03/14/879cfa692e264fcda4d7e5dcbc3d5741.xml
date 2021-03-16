@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<game game-type="season" terminated-early="true" uuid="879cfa692e264fcda4d7e5dcbc3d5741" version="2.1">
+  <meta>
+    <homeTeam>
+      <team defStrat="MAN" discordId="401796234001514501" fullName="Tigers" id="clemson" offStrat="ISO" shortName="Clemson"/>
+    </homeTeam>
+    <awayTeam>
+      <team defStrat="MAN" discordId="220705044478164992" fullName="Demon Deacons" id="wake" offStrat="4-Out" shortName="Wake Forest"/>
+    </awayTeam>
+    <startTime>1615747972890</startTime>
+    <gameTitle>Week Eleven (ACC)</gameTitle>
+    <channelName>clem-vs-wake</channelName>
+  </meta>
+  <scores>
+    <quarter away="0" home="9" q="F"/>
+    <quarter away="0" home="9" q="1"/>
+    <quarter away="0" home="0" q="2"/>
+    <quarter away="0" home="0" q="3"/>
+    <quarter away="0" home="0" q="4"/>
+  </scores>
+  <plays>
+    <tipoff away="19" home="679" tip="533"/>
+    <play numDef="122" numOff="137" pos="home" pts="3" q="1" result="and1"/>
+    <playFT numDef="454" numOff="444" pos="home" q="1" throws="1" throwsMade="1"/>
+  </plays>
+</game>
