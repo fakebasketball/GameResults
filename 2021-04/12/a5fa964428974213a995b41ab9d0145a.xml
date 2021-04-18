@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<game game-type="season" terminated-early="true" uuid="a5fa964428974213a995b41ab9d0145a" version="2.1">
+  <meta>
+    <homeTeam>
+      <team defStrat="MAN" discordId="487748192105005066" fullName="Nittany Lions" id="pennst" offStrat="ISO" shortName="Penn State"/>
+    </homeTeam>
+    <awayTeam>
+      <team defStrat="1-3-1" discordId="476519588155228162" fullName="Terrapins" id="maryland" offStrat="4-Out" shortName="Maryland"/>
+    </awayTeam>
+    <startTime>1618251956890</startTime>
+    <gameTitle>Week Twelve (Big Ten)</gameTitle>
+    <channelName>psu-vs-umd-rs2</channelName>
+  </meta>
+  <scores>
+    <quarter away="21" home="15" q="F"/>
+    <quarter away="16" home="4" q="1"/>
+    <quarter away="5" home="11" q="2"/>
+    <quarter away="0" home="0" q="3"/>
+    <quarter away="0" home="0" q="4"/>
+  </scores>
+  <plays>
+    <tipoff away="569" home="79" tip="738"/>
+    <play numDef="1" numOff="37" pos="away" pts="2" q="1" result="made"/>
+    <play numDef="1" numOff="677" pos="home" pts="3" q="1" result="miss"/>
+    <play numDef="222" numOff="729" pos="away" pts="2" q="1" result="dunk"/>
+    <play numDef="356" numOff="46" pos="away" pts="2" q="1" result="foul"/>
+    <playFT numDef="567" numOff="34" pos="away" q="1" throws="2" throwsMade="0"/>
+    <play numDef="555" numOff="349" pos="home" pts="2" q="1" result="made"/>
+    <play numDef="192" numOff="274" pos="away" pts="2" q="1" result="made"/>
+    <play numDef="725" numOff="3" pos="home" pts="3" q="1" result="miss"/>
+    <play numDef="249" numOff="69" pos="away" pts="3" q="1" result="made"/>
+    <play numDef="279" numOff="929" pos="home" pts="3" q="1" result="miss"/>
+    <play numDef="274" numOff="357" pos="away" pts="2" q="1" result="made"/>
+    <play numDef="749" numOff="420" pos="home" pts="3" q="1" result="miss"/>
+    <play numDef="622" numOff="274" pos="away" pts="2" q="1" result="rebound"/>
+    <play numDef="111" numOff="395" pos="away" pts="2" q="1" result="made"/>
+    <play numDef="499" numOff="111" pos="home" pts="2" q="1" result="miss"/>
+    <play numDef="789" numOff="804" pos="away" pts="2" q="1" result="and1"/>
+    <playFT numDef="1" numOff="879" pos="away" q="1" throws="1" throwsMade="1"/>
+    <play numDef="333" numOff="672" pos="home" pts="3" q="1" result="miss"/>
+    <play numDef="992" numOff="832" pos="away" pts="2" q="1" result="made"/>
+    <play numDef="222" numOff="890" pos="home" pts="3" q="1" result="miss"/>
+    <play numDef="257" numOff="892" pos="away" pts="2" q="1" result="miss"/>
+    <play numDef="1" numOff="782" pos="home" pts="3" q="2" result="foul"/>
+    <playFT numDef="566" numOff="628" pos="home" q="2" throws="3" throwsMade="3"/>
+    <play numDef="130" numOff="479" pos="away" pts="2" q="2" result="rebound"/>
+    <play numDef="222" numOff="777" pos="away" pts="2" q="2" result="turnover"/>
+    <play numDef="1" numOff="838" pos="home" pts="3" q="2" result="made"/>
+    <play numDef="910" numOff="274" pos="away" pts="2" q="2" result="miss"/>
+    <play numDef="1" numOff="689" pos="home" pts="2" q="2" result="foul"/>
+    <playFT numDef="3" numOff="992" pos="home" q="2" throws="2" throwsMade="2"/>
+    <play numDef="633" numOff="274" pos="away" pts="2" q="2" result="rebound"/>
+    <play numDef="146" numOff="374" pos="away" pts="2" q="2" result="made"/>
+    <play numDef="375" numOff="305" pos="home" pts="3" q="2" result="made"/>
+    <play numDef="910" numOff="673" pos="away" pts="2" q="2" result="made"/>
+  </plays>
+</game>
