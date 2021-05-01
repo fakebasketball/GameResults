@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<game game-type="season" terminated-early="true" uuid="7168a2dc7b6549d2b2e1f3045550ed19" version="2.1">
+  <meta>
+    <homeTeam>
+      <team defStrat="MAN" discordId="284831116207194122" fullName="Gamecocks" id="scarolina" offStrat="4-Out" shortName="South Carolina"/>
+    </homeTeam>
+    <awayTeam>
+      <team defStrat="MAN" discordId="134507698103255040" fullName="Cowboys" id="oklahomast" offStrat="4-Out" shortName="Oklahoma State"/>
+    </awayTeam>
+    <startTime>1619205319414</startTime>
+    <gameTitle>Week Thirteen (SEC/XII Challenge)</gameTitle>
+    <channelName>sc-vs-okst</channelName>
+  </meta>
+  <scores>
+    <quarter away="34" home="19" q="F"/>
+    <quarter away="17" home="14" q="1"/>
+    <quarter away="17" home="5" q="2"/>
+    <quarter away="0" home="0" q="3"/>
+    <quarter away="0" home="0" q="4"/>
+  </scores>
+  <plays>
+    <tipoff away="456" home="191" tip="522"/>
+    <play numDef="201" numOff="544" pos="away" pts="2" q="1" result="rebound"/>
+    <play numDef="402" numOff="257" pos="away" pts="2" q="1" result="made"/>
+    <play numDef="56" numOff="378" pos="home" pts="2" q="1" result="foul"/>
+    <playFT numDef="577" numOff="271" pos="home" q="1" throws="2" throwsMade="1"/>
+    <play numDef="72" numOff="583" pos="away" pts="3" q="1" result="dunk"/>
+    <play numDef="56" numOff="36" pos="away" pts="3" q="1" result="made"/>
+    <play numDef="646" numOff="322" pos="home" pts="2" q="1" result="foul"/>
+    <playFT numDef="849" numOff="212" pos="home" q="1" throws="2" throwsMade="1"/>
+    <play numDef="919" numOff="857" pos="away" pts="3" q="1" result="made"/>
+    <play numDef="474" numOff="829" pos="home" pts="2" q="1" result="rebound"/>
+    <play numDef="9" numOff="394" pos="home" pts="2" q="1" result="miss"/>
+    <play numDef="808" numOff="29" pos="away" pts="3" q="1" result="rebound"/>
+    <play numDef="128" numOff="596" pos="away" pts="3" q="1" result="turnover"/>
+    <play numDef="94" numOff="532" pos="home" pts="2" q="1" result="turnover"/>
+    <play numDef="78" numOff="958" pos="away" pts="3" q="1" result="made"/>
+    <play numDef="809" numOff="422" pos="home" pts="2" q="1" result="miss"/>
+    <play numDef="12" numOff="467" pos="away" pts="2" q="1" result="turnover"/>
+    <play numDef="881" numOff="288" pos="home" pts="2" q="1" result="miss"/>
+    <play numDef="477" numOff="568" pos="away" pts="3" q="1" result="made"/>
+    <play numDef="256" numOff="21" pos="home" pts="2" q="1" result="made"/>
+    <play numDef="316" numOff="368" pos="away" pts="3" q="1" result="made"/>
+    <play numDef="273" numOff="451" pos="home" pts="2" q="1" result="made"/>
+    <play numDef="82" numOff="23" pos="away" pts="3" q="2" result="made"/>
+    <play numDef="580" numOff="583" pos="home" pts="2" q="2" result="and1"/>
+    <playFT numDef="918" numOff="62" pos="home" q="2" throws="1" throwsMade="1"/>
+    <play numDef="801" numOff="492" pos="away" pts="2" q="2" result="foul"/>
+    <playFT numDef="709" numOff="6" pos="away" q="2" throws="2" throwsMade="1"/>
+    <play numDef="822" numOff="451" pos="home" pts="2" q="2" result="miss"/>
+    <play numDef="710" numOff="942" offStrat="chew" pos="away" pts="2" q="2" result="made"/>
+    <play numDef="338" numOff="613" pos="home" pts="3" q="2" result="miss"/>
+    <play numDef="504" numOff="679" offStrat="chew" pos="away" pts="2" q="2" result="made"/>
+    <playFT numDef="192" numOff="218" pos="away" q="2" throws="2" throwsMade="2"/>
+    <play numDef="786" numOff="725" pos="home" pts="2" q="2" result="made"/>
+    <play numDef="910" numOff="245" offStrat="chew" pos="away" pts="2" q="2" result="rebound"/>
+    <play numDef="423" numOff="215" offStrat="chew" pos="away" pts="2" q="2" result="made"/>
+  </plays>
+</game>
