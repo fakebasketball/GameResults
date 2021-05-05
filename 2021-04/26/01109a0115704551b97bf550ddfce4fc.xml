@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<game game-type="season" terminated-early="true" uuid="01109a0115704551b97bf550ddfce4fc" version="2.1">
+  <meta>
+    <homeTeam>
+      <team defStrat="MAN" discordId="550171370470899731" fullName="Cougars" id="washingtonst" offStrat="4-Out" shortName="Washington State"/>
+    </homeTeam>
+    <awayTeam>
+      <team defStrat="MAN" discordId="696007729252139129" fullName="Yellow Jackets" id="gatech" offStrat="ISO" shortName="Georgia Tech"/>
+    </awayTeam>
+    <startTime>1619432611636</startTime>
+    <gameTitle>Week Thirteen</gameTitle>
+    <channelName>wsu-vs-gt-rs</channelName>
+  </meta>
+  <scores>
+    <quarter away="27" home="23" q="F"/>
+    <quarter away="23" home="18" q="1"/>
+    <quarter away="4" home="5" q="2"/>
+    <quarter away="0" home="0" q="3"/>
+    <quarter away="0" home="0" q="4"/>
+  </scores>
+  <plays>
+    <tipoff away="99" home="799" tip="665"/>
+    <play numDef="900" numOff="750" pos="home" pts="2" q="1" result="made"/>
+    <play numDef="100" numOff="444" offStrat="chew" pos="away" pts="2" q="1" result="rebound"/>
+    <play numDef="55" numOff="280" offStrat="chew" pos="away" pts="3" q="1" result="foul"/>
+    <playFT numDef="501" numOff="1" pos="home" q="1" throws="2" throwsMade="0"/>
+    <play numDef="690" numOff="500" pos="away" pts="2" q="1" result="made"/>
+    <play numDef="900" numOff="666" pos="home" pts="2" q="1" result="made"/>
+    <play numDef="560" numOff="711" offStrat="chew" pos="away" pts="3" q="1" result="made"/>
+    <play numDef="965" numOff="1" pos="home" pts="2" q="1" result="made"/>
+    <play numDef="2" numOff="800" offStrat="chew" pos="away" pts="3" q="1" result="made"/>
+    <play numDef="645" numOff="700" pos="home" pts="2" q="1" result="made"/>
+    <play numDef="600" numOff="800" offStrat="chew" pos="away" pts="3" q="1" result="made"/>
+    <play numDef="555" numOff="750" pos="home" pts="2" q="1" result="made"/>
+    <play numDef="250" numOff="202" offStrat="chew" pos="away" pts="3" q="1" result="made"/>
+    <play numDef="404" numOff="22" pos="home" pts="2" q="1" result="miss"/>
+    <play numDef="1" numOff="777" offStrat="chew" pos="away" pts="3" q="1" result="foul"/>
+    <playFT numDef="700" numOff="222" pos="away" q="1" throws="3" throwsMade="0"/>
+    <playFT numDef="555" numOff="123" pos="away" q="1" throws="2" throwsMade="1"/>
+    <play numDef="321" numOff="900" offStrat="hurry" pos="home" pts="2" q="1" result="turnover"/>
+    <play numDef="33" numOff="733" offStrat="chew" pos="away" pts="3" q="2" result="miss"/>
+    <play numDef="400" numOff="500" pos="home" pts="2" q="2" result="made"/>
+    <play numDef="1000" numOff="300" offStrat="chew" pos="away" pts="2" q="2" result="foul"/>
+    <playFT numDef="555" numOff="800" pos="away" q="2" throws="2" throwsMade="2"/>
+    <play numDef="211" numOff="700" pos="home" pts="2" q="2" result="dunk"/>
+    <play numDef="58" numOff="300" offStrat="chew" pos="home" pts="2" q="2" result="made"/>
+  </plays>
+</game>
