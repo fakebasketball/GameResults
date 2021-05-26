@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<game game-type="season" terminated-early="true" uuid="cb6aa2ab4e0546779ab2e22549c54429" version="2.1">
+  <meta>
+    <homeTeam>
+      <team defStrat="MAN" discordId="372136803458613258" fullName="Wildcats" id="villanova" offStrat="ISO" shortName="Villanova"/>
+    </homeTeam>
+    <awayTeam>
+      <team defStrat="2-3" discordId="657448333874561024" fullName="Blue Demons" id="depaul" offStrat="5-Out" shortName="DePaul"/>
+    </awayTeam>
+    <startTime>1621276557755</startTime>
+    <gameTitle>Week Fifteen (Big East)</gameTitle>
+    <channelName>nova-vs-dep-rs</channelName>
+  </meta>
+  <scores>
+    <quarter away="12" home="29" q="F"/>
+    <quarter away="12" home="26" q="1"/>
+    <quarter away="0" home="3" q="2"/>
+    <quarter away="0" home="0" q="3"/>
+    <quarter away="0" home="0" q="4"/>
+  </scores>
+  <plays>
+    <tipoff away="555" home="266" tip="733"/>
+    <play numDef="967" numOff="553" pos="away" pts="2" q="1" result="miss"/>
+    <play numDef="211" numOff="854" pos="home" pts="3" q="1" result="miss"/>
+    <play numDef="355" numOff="881" pos="away" pts="2" q="1" result="dunk"/>
+    <play numDef="567" numOff="881" pos="away" pts="2" q="1" result="foul"/>
+    <playFT numDef="337" numOff="477" pos="home" q="1" throws="2" throwsMade="2"/>
+    <play numDef="366" numOff="72" pos="away" pts="2" q="1" result="made"/>
+    <play numDef="449" numOff="867" pos="home" pts="3" q="1" result="miss"/>
+    <play numDef="355" numOff="441" pos="away" pts="2" q="1" result="made"/>
+    <play numDef="734" numOff="577" pos="home" pts="3" q="1" result="made"/>
+    <play numDef="267" numOff="522" pos="away" pts="2" q="1" result="made"/>
+    <play numDef="312" numOff="967" pos="home" pts="3" q="1" result="miss"/>
+    <play numDef="356" numOff="367" pos="away" pts="2" q="1" result="and1"/>
+    <playFT numDef="755" numOff="447" pos="away" q="1" throws="1" throwsMade="1"/>
+    <play numDef="109" numOff="654" pos="home" pts="3" q="1" result="turnover"/>
+    <play numDef="355" numOff="523" pos="away" pts="2" q="1" result="made"/>
+    <play numDef="908" numOff="866" pos="home" pts="3" q="1" result="made"/>
+    <play numDef="244" numOff="623" pos="away" pts="2" q="1" result="miss"/>
+    <play numDef="212" numOff="466" pos="home" pts="3" q="1" result="rebound"/>
+    <play numDef="811" numOff="356" pos="home" pts="3" q="1" result="turnover"/>
+    <play numDef="977" numOff="374" pos="away" pts="2" q="1" result="miss"/>
+    <play numDef="110" numOff="977" pos="home" pts="3" q="1" result="made"/>
+    <play numDef="256" numOff="552" pos="away" pts="2" q="1" result="made"/>
+    <play numDef="622" numOff="866" pos="home" pts="3" q="2" result="rebound"/>
+    <play numDef="921" numOff="977" pos="home" pts="3" q="2" result="made"/>
+  </plays>
+</game>
