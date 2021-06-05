@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<game game-type="postseason" terminated-early="true" uuid="96717b31829b460ba39f4a608dfc6142" version="2.1">
+  <meta>
+    <homeTeam>
+      <team defStrat="MAN" discordId="199065947795881984" fullName="Hawkeyes" id="iowa" offStrat="4-Out" shortName="Iowa"/>
+    </homeTeam>
+    <awayTeam>
+      <team defStrat="2-3" discordId="327486880394510356" fullName="Fighting Illini" id="illinois" offStrat="4-Out" shortName="Illinois"/>
+    </awayTeam>
+    <startTime>1622735356828</startTime>
+    <gameTitle>Big Ten Tournament (First Round)</gameTitle>
+    <channelName>6-iowa-vs-11-ill</channelName>
+  </meta>
+  <scores>
+    <quarter away="8" home="4" q="F"/>
+    <quarter away="8" home="4" q="1"/>
+    <quarter away="0" home="0" q="2"/>
+    <quarter away="0" home="0" q="3"/>
+    <quarter away="0" home="0" q="4"/>
+  </scores>
+  <plays>
+    <tipoff away="220" home="222" tip="53"/>
+    <play numDef="750" numOff="411" pos="away" pts="2" q="1" result="rebound"/>
+    <play numDef="161" numOff="33" pos="away" pts="3" q="1" result="made"/>
+    <play numDef="101" numOff="214" pos="home" pts="2" q="1" result="made"/>
+    <play numDef="650" numOff="83" pos="away" pts="3" q="1" result="turnover"/>
+    <play numDef="690" numOff="319" pos="home" pts="2" q="1" result="miss"/>
+    <play numDef="329" numOff="500" pos="away" pts="2" q="1" result="made"/>
+    <play numDef="449" numOff="184" pos="home" pts="2" q="1" result="made"/>
+    <play numDef="622" numOff="411" pos="away" pts="3" q="1" result="foul"/>
+    <playFT numDef="808" numOff="600" pos="away" q="1" throws="3" throwsMade="2"/>
+  </plays>
+</game>
