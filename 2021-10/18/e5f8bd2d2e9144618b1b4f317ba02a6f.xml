@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<game game-type="season" terminated-early="true" uuid="e5f8bd2d2e9144618b1b4f317ba02a6f" version="2.1">
+  <meta>
+    <homeTeam>
+      <team defStrat="MAN" discordId="667108767959351308" fullName="Huskies" id="washington" offStrat="5-Out" shortName="Washington"/>
+    </homeTeam>
+    <awayTeam>
+      <team defStrat="2-3" discordId="815457685386035201" fullName="Cyclones" id="iowast" offStrat="ISO" shortName="Iowa State"/>
+    </awayTeam>
+    <startTime>1634573267087</startTime>
+    <gameTitle>Week Two</gameTitle>
+    <channelName>uw-vs-isu</channelName>
+  </meta>
+  <scores>
+    <quarter away="2" home="12" q="F"/>
+    <quarter away="2" home="12" q="1"/>
+    <quarter away="0" home="0" q="2"/>
+    <quarter away="0" home="0" q="3"/>
+    <quarter away="0" home="0" q="4"/>
+  </scores>
+  <plays>
+    <tipoff away="950" home="777" tip="531"/>
+    <play numDef="378" numOff="650" pos="home" pts="2" q="1" result="made"/>
+    <playFT numDef="394" numOff="340" pos="home" q="1" throws="2" throwsMade="2"/>
+    <play numDef="999" numOff="550" pos="away" pts="2" q="1" result="turnover"/>
+    <play numDef="947" numOff="121" pos="home" pts="2" q="1" result="made"/>
+    <play numDef="349" numOff="386" pos="away" pts="2" q="1" result="made"/>
+    <play numDef="988" numOff="669" pos="home" pts="2" q="1" result="foul"/>
+  </plays>
+</game>
