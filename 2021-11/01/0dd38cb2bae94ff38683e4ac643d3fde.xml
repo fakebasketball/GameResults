@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<game game-type="season" terminated-early="true" uuid="0dd38cb2bae94ff38683e4ac643d3fde" version="2.1">
+  <meta>
+    <homeTeam>
+      <team defStrat="2-3" discordId="706698513710579762" fullName="Golden Eagles" id="marquette" offStrat="5-Out" shortName="Marquette"/>
+    </homeTeam>
+    <awayTeam>
+      <team defStrat="MAN" discordId="341365184021004290" fullName="Gators" id="florida" offStrat="ISO" shortName="Florida"/>
+    </awayTeam>
+    <startTime>1635782704339</startTime>
+    <gameTitle>Week Four</gameTitle>
+    <channelName>marq-vs-uf</channelName>
+  </meta>
+  <scores>
+    <quarter away="8" home="3" q="F"/>
+    <quarter away="8" home="3" q="1"/>
+    <quarter away="0" home="0" q="2"/>
+    <quarter away="0" home="0" q="3"/>
+    <quarter away="0" home="0" q="4"/>
+  </scores>
+  <plays>
+    <tipoff away="420" home="222" tip="925"/>
+    <playFT numDef="234" numOff="211" pos="away" q="1" throws="2" throwsMade="2"/>
+    <play numDef="900" numOff="122" offStrat="chew" pos="home" pts="2" q="1" result="made"/>
+    <play numDef="522" numOff="101" pos="away" pts="3" q="1" result="turnover"/>
+  </plays>
+</game>
