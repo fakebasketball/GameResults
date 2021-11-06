@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<game game-type="season" terminated-early="true" uuid="0f34abb4ee35477a909038826e3357bd" version="2.1">
+  <meta>
+    <homeTeam>
+      <team defStrat="MAN" discordId="667108767959351308" fullName="Huskies" id="washington" offStrat="5-Out" shortName="Washington"/>
+    </homeTeam>
+    <awayTeam>
+      <team defStrat="1-3-1" discordId="693027263062474782" fullName="Commodores" id="vanderbilt" offStrat="ISO" shortName="Vanderbilt"/>
+    </awayTeam>
+    <startTime>1635782744100</startTime>
+    <gameTitle>Week Four</gameTitle>
+    <channelName>uw-vs-van</channelName>
+  </meta>
+  <scores>
+    <quarter away="28" home="27" q="F"/>
+    <quarter away="16" home="19" q="1"/>
+    <quarter away="12" home="8" q="2"/>
+    <quarter away="0" home="0" q="3"/>
+    <quarter away="0" home="0" q="4"/>
+  </scores>
+  <plays>
+    <tipoff away="303" home="23" tip="226"/>
+    <play numDef="430" numOff="767" pos="away" pts="3" q="1" result="miss"/>
+    <play numDef="769" numOff="767" pos="home" pts="2" q="1" result="and1"/>
+    <playFT numDef="665" numOff="320" pos="home" q="1" throws="1" throwsMade="1"/>
+    <play numDef="900" numOff="909" pos="away" pts="3" q="1" result="and1"/>
+    <playFT numDef="56" numOff="404" pos="away" q="1" throws="1" throwsMade="1"/>
+    <play numDef="721" numOff="540" offStrat="chew" pos="home" pts="2" q="1" result="made"/>
+    <play numDef="320" numOff="511" pos="away" pts="3" q="1" result="made"/>
+    <play numDef="888" numOff="696" offStrat="chew" pos="home" pts="2" q="1" result="made"/>
+    <play numDef="211" numOff="606" pos="away" pts="3" q="1" result="miss"/>
+    <play numDef="321" numOff="560" pos="home" pts="2" q="1" result="made"/>
+    <play numDef="430" numOff="211" pos="away" pts="3" q="1" result="foul"/>
+    <playFT numDef="1000" numOff="807" pos="away" q="1" throws="3" throwsMade="2"/>
+    <play numDef="544" numOff="666" pos="home" pts="2" q="1" result="made"/>
+    <play numDef="223" numOff="911" pos="away" pts="3" q="1" result="miss"/>
+    <play numDef="322" numOff="121" pos="home" pts="2" q="1" result="made"/>
+    <play numDef="788" numOff="717" pos="away" pts="3" q="1" result="made"/>
+    <play numDef="64" numOff="219" pos="home" pts="2" q="1" result="made"/>
+    <play numDef="777" numOff="666" pos="away" pts="3" q="1" result="made"/>
+    <play numDef="432" numOff="220" pos="home" pts="2" q="1" result="made"/>
+    <play numDef="77" numOff="808" pos="away" pts="3" q="1" result="miss"/>
+    <play numDef="5" numOff="121" pos="home" pts="2" q="2" result="made"/>
+    <play numDef="769" numOff="411" pos="away" pts="3" q="2" result="miss"/>
+    <play numDef="540" numOff="690" pos="home" pts="2" q="2" result="made"/>
+    <play numDef="333" numOff="101" pos="away" pts="3" q="2" result="rebound"/>
+    <play numDef="789" numOff="808" pos="away" pts="3" q="2" result="and1"/>
+    <playFT numDef="999" numOff="202" pos="away" q="2" throws="1" throwsMade="1"/>
+    <play numDef="86" numOff="1" pos="home" pts="2" q="2" result="made"/>
+    <play numDef="555" numOff="661" pos="away" pts="3" q="2" result="made"/>
+    <play numDef="866" numOff="212" pos="home" pts="2" q="2" result="foul"/>
+    <playFT numDef="361" numOff="320" pos="home" q="2" throws="2" throwsMade="2"/>
+    <play numDef="230" numOff="110" pos="away" pts="3" q="2" result="made"/>
+    <play numDef="881" numOff="322" pos="home" pts="2" q="2" result="turnover"/>
+    <play numDef="555" numOff="707" pos="away" pts="2" q="2" result="made"/>
+  </plays>
+</game>
