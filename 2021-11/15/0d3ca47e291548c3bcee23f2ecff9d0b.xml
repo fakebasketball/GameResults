@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<game game-type="season" terminated-early="true" uuid="0d3ca47e291548c3bcee23f2ecff9d0b" version="2.1">
+  <meta>
+    <homeTeam>
+      <team defStrat="MAN" discordId="372136803458613258" fullName="Wildcats" id="villanova" offStrat="ISO" shortName="Villanova"/>
+    </homeTeam>
+    <awayTeam>
+      <team defStrat="MAN" discordId="351879660382191620" fullName="Utes" id="utah" offStrat="4-Out" shortName="Utah"/>
+    </awayTeam>
+    <startTime>1636995473045</startTime>
+    <gameTitle>ACC/Pac-12 Showdown</gameTitle>
+    <channelName>nova-vs-utah</channelName>
+  </meta>
+  <scores>
+    <quarter away="17" home="12" q="F"/>
+    <quarter away="17" home="12" q="1"/>
+    <quarter away="0" home="0" q="2"/>
+    <quarter away="0" home="0" q="3"/>
+    <quarter away="0" home="0" q="4"/>
+  </scores>
+  <plays>
+    <tipoff away="200" home="966" tip="713"/>
+    <play numDef="277" numOff="855" pos="home" pts="3" q="1" result="turnover"/>
+    <play numDef="177" numOff="399" offStrat="chew" pos="away" pts="2" q="1" result="made"/>
+    <play numDef="19" numOff="856" pos="home" pts="3" q="1" result="made"/>
+    <play numDef="755" numOff="555" offStrat="chew" pos="away" pts="2" q="1" result="made"/>
+    <play numDef="944" numOff="966" pos="home" pts="3" q="1" result="made"/>
+    <play numDef="644" numOff="777" offStrat="chew" pos="away" pts="2" q="1" result="made"/>
+    <play numDef="213" numOff="356" pos="home" pts="3" q="1" result="made"/>
+    <play numDef="177" numOff="888" offStrat="chew" pos="away" pts="2" q="1" result="made"/>
+    <play numDef="888" numOff="166" pos="home" pts="3" q="1" result="miss"/>
+    <play numDef="755" numOff="677" offStrat="chew" pos="away" pts="2" q="1" result="made"/>
+    <play numDef="100" numOff="967" pos="home" pts="3" q="1" result="made"/>
+    <play numDef="645" numOff="333" pos="away" pts="2" q="1" result="foul"/>
+    <playFT numDef="967" numOff="444" pos="away" q="1" throws="2" throwsMade="0"/>
+  </plays>
+</game>
