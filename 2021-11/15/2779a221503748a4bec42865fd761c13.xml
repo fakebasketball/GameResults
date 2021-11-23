@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<game game-type="season" terminated-early="true" uuid="2779a221503748a4bec42865fd761c13" version="2.1">
+  <meta>
+    <homeTeam>
+      <team defStrat="MAN" discordId="401796234001514501" fullName="Tigers" id="clemson" offStrat="ISO" shortName="Clemson"/>
+    </homeTeam>
+    <awayTeam>
+      <team defStrat="1-3-1" discordId="158306211568025600" fullName="Sun Devils" id="arizonast" offStrat="ISO" shortName="Arizona State"/>
+    </awayTeam>
+    <startTime>1636995344707</startTime>
+    <gameTitle>ACC/Pac-12 Showdown</gameTitle>
+    <channelName>clem-vs-asu</channelName>
+  </meta>
+  <scores>
+    <quarter away="56" home="72" q="F"/>
+    <quarter away="18" home="21" q="1"/>
+    <quarter away="25" home="21" q="2"/>
+    <quarter away="13" home="30" q="3"/>
+    <quarter away="0" home="0" q="4"/>
+  </scores>
+  <plays>
+    <tipoff away="777" home="555" tip="165"/>
+    <play numDef="126" numOff="322" offStrat="hurry" pos="away" pts="3" q="1" result="made"/>
+    <play numDef="50" numOff="165" pos="home" pts="3" q="1" result="made"/>
+    <play numDef="333" numOff="200" offStrat="hurry" pos="away" pts="3" q="1" result="made"/>
+    <play numDef="301" numOff="665" pos="home" pts="3" q="1" result="miss"/>
+    <play numDef="556" numOff="91" offStrat="hurry" pos="away" pts="3" q="1" result="turnover"/>
+    <play numDef="555" numOff="676" pos="home" pts="3" q="1" result="made"/>
+    <play numDef="212" numOff="599" offStrat="hurry" pos="away" pts="3" q="1" result="miss"/>
+    <play numDef="210" numOff="534" pos="home" pts="3" q="1" result="miss"/>
+    <play numDef="212" numOff="94" offStrat="hurry" pos="away" pts="3" q="1" result="made"/>
+    <play numDef="313" numOff="999" pos="home" pts="3" q="1" result="miss"/>
+    <play numDef="420" numOff="30" offStrat="hurry" pos="away" pts="2" q="1" result="miss"/>
+    <play numDef="331" numOff="345" pos="home" pts="3" q="1" result="and1"/>
+    <playFT numDef="599" numOff="12" pos="home" q="1" throws="1" throwsMade="0"/>
+    <play numDef="392" numOff="485" offStrat="hurry" pos="away" pts="3" q="1" result="made"/>
+    <play numDef="331" numOff="126" pos="home" pts="3" q="1" result="foul"/>
+    <playFT numDef="555" numOff="216" pos="home" q="1" throws="3" throwsMade="2"/>
+    <play numDef="992" numOff="488" offStrat="hurry" pos="away" pts="3" q="1" result="dunk"/>
+    <play numDef="912" numOff="32" offStrat="hurry" pos="away" pts="3" q="1" result="made"/>
+    <play numDef="887" numOff="133" pos="home" pts="3" q="1" result="rebound"/>
+    <play numDef="666" numOff="444" pos="home" pts="3" q="1" result="rebound"/>
+    <play numDef="665" numOff="126" pos="home" pts="3" q="1" result="turnover"/>
+    <play numDef="489" numOff="84" offStrat="hurry" pos="away" pts="3" q="1" result="miss"/>
+    <play numDef="212" numOff="666" pos="home" pts="3" q="1" result="turnover"/>
+    <play numDef="196" numOff="888" offStrat="hurry" pos="away" pts="3" q="1" result="miss"/>
+    <play numDef="555" numOff="555" pos="home" pts="3" q="1" result="and1made"/>
+    <play numDef="912" numOff="737" offStrat="hurry" pos="away" pts="2" q="1" result="made"/>
+    <play numDef="201" numOff="56" pos="home" pts="3" q="1" result="made"/>
+    <play numDef="543" numOff="66" offStrat="hurry" pos="away" pts="3" q="2" result="dunk"/>
+    <play numDef="555" numOff="543" offStrat="hurry" pos="away" pts="3" q="2" result="and1"/>
+    <playFT numDef="676" numOff="313" pos="away" q="2" throws="1" throwsMade="0"/>
+    <play numDef="920" numOff="565" pos="home" pts="3" q="2" result="miss"/>
+    <play numDef="910" numOff="488" offStrat="hurry" pos="away" pts="3" q="2" result="turnover"/>
+    <play numDef="555" numOff="666" pos="home" pts="3" q="2" result="made"/>
+    <play numDef="126" numOff="1" offStrat="hurry" pos="away" pts="3" q="2" result="made"/>
+    <play numDef="777" numOff="145" pos="home" pts="3" q="2" result="miss"/>
+    <play numDef="345" numOff="443" offStrat="hurry" pos="away" pts="3" q="2" result="made"/>
+    <play numDef="849" numOff="656" pos="home" pts="3" q="2" result="made"/>
+    <play numDef="189" numOff="887" offStrat="hurry" pos="away" pts="3" q="2" result="miss"/>
+    <play numDef="666" numOff="956" pos="home" pts="3" q="2" result="miss"/>
+    <play numDef="126" numOff="53" offStrat="hurry" pos="away" pts="3" q="2" result="made"/>
+    <play numDef="892" numOff="333" pos="home" pts="3" q="2" result="turnover"/>
+    <play numDef="412" numOff="462" offStrat="hurry" pos="away" pts="3" q="2" result="made"/>
+    <play numDef="722" numOff="343" pos="home" pts="3" q="2" result="miss"/>
+    <play numDef="997" numOff="23" offStrat="hurry" pos="away" pts="3" q="2" result="made"/>
+    <play numDef="488" numOff="373" pos="home" pts="3" q="2" result="made"/>
+    <play numDef="967" numOff="103" offStrat="hurry" pos="away" pts="3" q="2" result="made"/>
+    <play numDef="848" numOff="900" pos="home" pts="3" q="2" result="made"/>
+    <play numDef="592" numOff="210" offStrat="hurry" pos="away" pts="3" q="2" result="miss"/>
+    <play numDef="444" numOff="363" pos="home" pts="3" q="2" result="made"/>
+    <play numDef="745" numOff="473" offStrat="hurry" pos="away" pts="3" q="2" result="miss"/>
+    <play numDef="220" numOff="396" pos="home" pts="3" q="2" result="made"/>
+    <play numDef="671" numOff="484" offStrat="chew" pos="away" pts="3" q="2" result="made"/>
+    <play numDef="555" numOff="677" pos="home" pts="3" q="3" result="made"/>
+    <play numDef="264" numOff="858" offStrat="hurry" pos="away" pts="3" q="3" result="miss"/>
+    <play numDef="666" numOff="498" pos="home" pts="3" q="3" result="made"/>
+    <play numDef="78" numOff="584" offStrat="hurry" pos="away" pts="3" q="3" result="dunk"/>
+    <play numDef="915" numOff="500" offStrat="hurry" pos="away" pts="3" q="3" result="turnover"/>
+    <play numDef="666" numOff="150" pos="home" pts="3" q="3" result="dunk"/>
+    <play numDef="666" numOff="866" pos="home" pts="3" q="3" result="foul"/>
+    <playFT numDef="220" numOff="555" pos="home" q="3" throws="3" throwsMade="2"/>
+    <play numDef="199" numOff="777" offStrat="hurry" pos="away" pts="3" q="3" result="turnover"/>
+    <play numDef="666" numOff="498" pos="home" pts="3" q="3" result="made"/>
+    <play numDef="832" numOff="95" offStrat="hurry" pos="away" pts="3" q="3" result="miss"/>
+    <play numDef="666" numOff="878" pos="home" pts="3" q="3" result="foul"/>
+    <playFT numDef="72" numOff="767" pos="home" q="3" throws="3" throwsMade="2"/>
+    <play numDef="189" numOff="462" offStrat="hurry" pos="away" pts="3" q="3" result="miss"/>
+    <play numDef="910" numOff="789" pos="home" pts="3" q="3" result="made"/>
+    <play numDef="945" numOff="1" offStrat="hurry" pos="away" pts="3" q="3" result="made"/>
+    <play defStrat="press" numDef="633" numOff="888" pos="home" pts="3" q="3" result="miss"/>
+    <play numDef="956" numOff="49" offStrat="hurry" pos="away" pts="3" q="3" result="made"/>
+    <play defStrat="press" numDef="666" numOff="456" pos="home" pts="3" q="3" result="made"/>
+    <play numDef="567" numOff="478" offStrat="hurry" pos="away" pts="3" q="3" result="made"/>
+    <play numDef="920" numOff="467" pos="home" pts="3" q="3" result="turnover"/>
+    <playFT numDef="472" numOff="434" pos="home" q="3" throws="2" throwsMade="2"/>
+    <play numDef="859" numOff="55" offStrat="hurry" pos="away" pts="2" q="3" result="made"/>
+    <play numDef="515" numOff="767" pos="home" pts="3" q="3" result="miss"/>
+    <play numDef="345" numOff="54" offStrat="hurry" pos="away" pts="3" q="3" result="miss"/>
+    <play numDef="331" numOff="783" pos="home" pts="3" q="3" result="turnover"/>
+  </plays>
+</game>
