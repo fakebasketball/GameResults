@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<game game-type="season" terminated-early="true" uuid="9f294fca3b874d159cfddb1dc84c3eb3" version="2.1">
+  <meta>
+    <homeTeam>
+      <team defStrat="2-3" discordId="287662129673142273" fullName="Wildcats" id="northwestern" offStrat="ISO" shortName="Northwestern"/>
+    </homeTeam>
+    <awayTeam>
+      <team defStrat="1-3-1" discordId="482253546939613205" fullName="Seminoles" id="floridast" offStrat="5-Out" shortName="Florida State"/>
+    </awayTeam>
+    <startTime>1637600925064</startTime>
+    <gameTitle>Week One</gameTitle>
+    <channelName>nw-vs-fsu-rs</channelName>
+  </meta>
+  <scores>
+    <quarter away="61" home="59" q="F"/>
+    <quarter away="58" home="59" q="1"/>
+    <quarter away="3" home="0" q="2"/>
+    <quarter away="0" home="0" q="3"/>
+    <quarter away="0" home="0" q="4"/>
+  </scores>
+  <plays>
+    <tipoff away="500" home="926" tip="276"/>
+    <play numDef="392" numOff="788" pos="away" pts="2" q="1" result="miss"/>
+    <play numDef="1" numOff="96" pos="home" pts="3" q="1" result="made"/>
+    <play numDef="1" numOff="555" pos="away" pts="2" q="1" result="turnover"/>
+    <play numDef="22" numOff="877" pos="home" pts="3" q="1" result="made"/>
+    <play numDef="322" numOff="400" pos="away" pts="2" q="1" result="made"/>
+    <play numDef="746" numOff="93" pos="home" pts="3" q="1" result="miss"/>
+    <play numDef="112" numOff="1000" pos="away" pts="2" q="1" result="made"/>
+    <play numDef="287" numOff="97" pos="home" pts="3" q="1" result="made"/>
+    <play numDef="555" numOff="333" pos="away" pts="2" q="1" result="made"/>
+    <play numDef="1" numOff="775" pos="home" pts="3" q="1" result="rebound"/>
+    <play numDef="550" numOff="728" pos="home" pts="3" q="1" result="made"/>
+    <play numDef="733" numOff="777" pos="away" pts="2" q="1" result="made"/>
+    <play numDef="716" numOff="182" pos="home" pts="3" q="1" result="turnover"/>
+    <play defStrat="press" numDef="33" numOff="100" offStrat="hurry" pos="away" pts="2" q="1" result="made"/>
+    <play numDef="388" numOff="266" pos="home" pts="3" q="1" result="made"/>
+    <play numDef="818" numOff="101" offStrat="hurry" pos="away" pts="2" q="1" result="made"/>
+    <play numDef="716" numOff="61" pos="home" pts="3" q="1" result="miss"/>
+    <play numDef="929" numOff="969" offStrat="hurry" pos="away" pts="2" q="1" result="made"/>
+    <play numDef="600" numOff="62" offStrat="chew" pos="home" pts="3" q="1" result="turnover"/>
+    <play numDef="182" numOff="345" offStrat="hurry" pos="away" pts="2" q="1" result="made"/>
+    <play numDef="499" numOff="726" offStrat="chew" pos="home" pts="2" q="1" result="made"/>
+    <play numDef="77" numOff="1" offStrat="hurry" pos="away" pts="3" q="2" result="made"/>
+  </plays>
+</game>
