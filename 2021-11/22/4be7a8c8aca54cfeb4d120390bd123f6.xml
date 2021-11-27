@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<game game-type="season" terminated-early="true" uuid="4be7a8c8aca54cfeb4d120390bd123f6" version="2.1">
+  <meta>
+    <homeTeam>
+      <team defStrat="MAN" discordId="341365184021004290" fullName="Gators" id="florida" offStrat="ISO" shortName="Florida"/>
+    </homeTeam>
+    <awayTeam>
+      <team defStrat="1-3-1" discordId="719005762621407253" fullName="Wolfpack" id="ncstate" offStrat="ISO" shortName="NC State"/>
+    </awayTeam>
+    <startTime>1637600353734</startTime>
+    <gameTitle>Week One</gameTitle>
+    <channelName>uf-vs-ncst-rs</channelName>
+  </meta>
+  <scores>
+    <quarter away="38" home="36" q="F"/>
+    <quarter away="38" home="36" q="1"/>
+    <quarter away="0" home="0" q="2"/>
+    <quarter away="0" home="0" q="3"/>
+    <quarter away="0" home="0" q="4"/>
+  </scores>
+  <plays>
+    <tipoff away="4" home="420" tip="406"/>
+    <play numDef="5" numOff="101" pos="home" pts="3" q="1" result="made"/>
+    <play numDef="999" numOff="568" pos="away" pts="3" q="1" result="turnover"/>
+    <play numDef="100" numOff="890" pos="home" pts="3" q="1" result="foul"/>
+    <playFT numDef="58" numOff="717" pos="home" q="1" throws="3" throwsMade="2"/>
+    <play numDef="333" numOff="511" offStrat="hurry" pos="away" pts="2" q="1" result="made"/>
+    <play defStrat="press" numDef="8" numOff="404" pos="home" pts="3" q="1" result="turnover"/>
+    <play numDef="1000" numOff="506" pos="away" pts="3" q="1" result="dunk"/>
+    <play numDef="1000" numOff="10" pos="away" pts="2" q="1" result="and1"/>
+    <playFT numDef="1" numOff="19" pos="away" q="1" throws="1" throwsMade="1"/>
+    <play numDef="553" numOff="101" pos="home" pts="3" q="1" result="turnover"/>
+    <play numDef="999" numOff="100" pos="away" pts="2" q="1" result="made"/>
+    <playFT numDef="222" numOff="19" pos="away" q="1" throws="2" throwsMade="2"/>
+    <play numDef="112" numOff="904" pos="home" pts="3" q="1" result="foul"/>
+    <playFT numDef="37" numOff="888" pos="home" q="1" throws="3" throwsMade="3"/>
+    <play numDef="904" numOff="100" pos="away" pts="2" q="1" result="made"/>
+  </plays>
+</game>
