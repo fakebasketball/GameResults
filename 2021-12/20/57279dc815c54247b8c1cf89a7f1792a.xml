@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<game game-type="season" terminated-early="true" uuid="57279dc815c54247b8c1cf89a7f1792a" version="2.1">
+  <meta>
+    <homeTeam>
+      <team defStrat="1-3-1" discordId="208429483059970050" fullName="Huskies" id="uconn" offStrat="ISO" shortName="Connecticut"/>
+    </homeTeam>
+    <awayTeam>
+      <team defStrat="MAN" discordId="400757107583877120" fullName="Friars" id="providence" offStrat="4-Out" shortName="Providence"/>
+    </awayTeam>
+    <startTime>1640019408450</startTime>
+    <gameTitle>Week Ten (Big East)</gameTitle>
+    <channelName>conn-vs-prov</channelName>
+  </meta>
+  <scores>
+    <quarter away="26" home="13" q="F"/>
+    <quarter away="25" home="13" q="1"/>
+    <quarter away="1" home="0" q="2"/>
+    <quarter away="0" home="0" q="3"/>
+    <quarter away="0" home="0" q="4"/>
+  </scores>
+  <plays>
+    <tipoff away="762" home="69" tip="570"/>
+    <play numDef="777" numOff="478" pos="away" pts="2" q="1" result="made"/>
+    <play numDef="273" numOff="535" pos="home" pts="2" q="1" result="made"/>
+    <playFT numDef="584" numOff="557" pos="away" q="1" throws="2" throwsMade="2"/>
+    <play numDef="27" numOff="197" pos="home" pts="3" q="1" result="made"/>
+    <play numDef="518" numOff="477" pos="away" pts="2" q="1" result="made"/>
+    <play numDef="668" numOff="942" pos="home" pts="3" q="1" result="miss"/>
+    <play numDef="555" numOff="677" pos="away" pts="3" q="1" result="made"/>
+    <play numDef="227" numOff="420" pos="home" pts="3" q="1" result="made"/>
+    <play numDef="494" numOff="111" pos="away" pts="2" q="1" result="miss"/>
+    <play numDef="866" numOff="442" pos="home" pts="3" q="1" result="turnover"/>
+    <play numDef="32" numOff="667" pos="away" pts="2" q="1" result="rebound"/>
+    <play numDef="555" numOff="300" pos="away" pts="3" q="1" result="miss"/>
+    <play numDef="22" numOff="300" pos="home" pts="3" q="1" result="miss"/>
+    <play numDef="300" numOff="777" pos="away" pts="2" q="1" result="dunk"/>
+    <play numDef="656" numOff="522" pos="away" pts="2" q="1" result="made"/>
+    <play numDef="338" numOff="181" pos="home" pts="3" q="1" result="made"/>
+    <play numDef="838" numOff="889" pos="away" pts="2" q="1" result="made"/>
+    <play numDef="666" numOff="69" pos="home" pts="3" q="1" result="miss"/>
+    <play numDef="728" numOff="511" pos="away" pts="3" q="1" result="rebound"/>
+    <play numDef="474" numOff="333" pos="away" pts="3" q="1" result="made"/>
+  </plays>
+</game>
