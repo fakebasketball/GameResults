@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<game game-type="season" terminated-early="true" uuid="e8f42d787e0e4d649424ffcfea0c7194" version="2.1">
+  <meta>
+    <homeTeam>
+      <team defStrat="2-3" discordId="287662129673142273" fullName="Wildcats" id="northwestern" offStrat="ISO" shortName="Northwestern"/>
+    </homeTeam>
+    <awayTeam>
+      <team defStrat="2-3" discordId="327486880394510356" fullName="Fighting Illini" id="illinois" offStrat="4-Out" shortName="Illinois"/>
+    </awayTeam>
+    <startTime>1641836755635</startTime>
+    <gameTitle>Week Twelve (Big 10)</gameTitle>
+    <channelName>9-nw-vs-ill</channelName>
+  </meta>
+  <scores>
+    <quarter away="18" home="9" q="F"/>
+    <quarter away="18" home="9" q="1"/>
+    <quarter away="0" home="0" q="2"/>
+    <quarter away="0" home="0" q="3"/>
+    <quarter away="0" home="0" q="4"/>
+  </scores>
+  <plays>
+    <tipoff away="46" home="728" tip="683"/>
+    <play numDef="2" numOff="818" pos="home" pts="3" q="1" result="made"/>
+    <play numDef="52" numOff="60" pos="away" pts="2" q="1" result="and1"/>
+    <playFT numDef="882" numOff="4" pos="away" q="1" throws="1" throwsMade="1"/>
+    <play numDef="5" numOff="717" pos="home" pts="3" q="1" result="miss"/>
+    <play numDef="393" numOff="330" pos="away" pts="2" q="1" result="made"/>
+    <play numDef="12" numOff="669" pos="home" pts="3" q="1" result="miss"/>
+    <play numDef="233" numOff="91" pos="away" pts="3" q="1" result="made"/>
+    <playFT numDef="877" numOff="100" pos="away" q="1" throws="2" throwsMade="2"/>
+    <play numDef="331" numOff="666" pos="home" pts="3" q="1" result="miss"/>
+    <play numDef="886" numOff="632" pos="away" pts="3" q="1" result="rebound"/>
+    <play numDef="675" numOff="130" pos="away" pts="3" q="1" result="turnover"/>
+    <play numDef="53" numOff="822" pos="home" pts="3" q="1" result="foul"/>
+    <playFT numDef="492" numOff="822" pos="home" q="1" throws="3" throwsMade="2"/>
+    <play numDef="445" numOff="500" pos="away" pts="2" q="1" result="made"/>
+    <play numDef="635" numOff="192" pos="home" pts="3" q="1" result="turnover"/>
+    <play numDef="635" numOff="52" pos="away" pts="3" q="1" result="turnover"/>
+    <play numDef="934" numOff="891" pos="home" pts="3" q="1" result="made"/>
+    <play numDef="455" numOff="725" pos="away" pts="3" q="1" result="miss"/>
+    <play numDef="777" numOff="537" pos="home" pts="3" q="1" result="rebound"/>
+    <playFT numDef="20" numOff="444" pos="away" q="1" throws="2" throwsMade="1"/>
+    <play numDef="263" numOff="515" pos="home" pts="3" q="1" result="rebound"/>
+    <play numDef="208" numOff="775" pos="home" pts="3" q="1" result="turnover"/>
+    <play numDef="67" numOff="486" pos="away" pts="2" q="1" result="turnover"/>
+  </plays>
+</game>
