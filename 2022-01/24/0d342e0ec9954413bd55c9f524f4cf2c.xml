@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<game game-type="season" terminated-early="true" uuid="0d342e0ec9954413bd55c9f524f4cf2c" version="2.1">
+  <meta>
+    <homeTeam>
+      <team defStrat="2-3" discordId="129120653948223488" fullName="Wildcats" id="kansasst" offStrat="4-Out" shortName="Kansas State"/>
+    </homeTeam>
+    <awayTeam>
+      <team defStrat="MAN" discordId="356643200469041155" fullName="Sooners" id="oklahoma" offStrat="4-Out" shortName="Oklahoma"/>
+    </awayTeam>
+    <startTime>1643043876635</startTime>
+    <gameTitle>Week Fourteen (Big 12)</gameTitle>
+    <channelName>4-ksu-vs-ou</channelName>
+  </meta>
+  <scores>
+    <quarter away="7" home="0" q="F"/>
+    <quarter away="7" home="0" q="1"/>
+    <quarter away="0" home="0" q="2"/>
+    <quarter away="0" home="0" q="3"/>
+    <quarter away="0" home="0" q="4"/>
+  </scores>
+  <plays>
+    <tipoff away="662" home="123" tip="434"/>
+    <play numDef="313" numOff="300" offStrat="chew" pos="away" pts="2" q="1" result="and1"/>
+  </plays>
+</game>
