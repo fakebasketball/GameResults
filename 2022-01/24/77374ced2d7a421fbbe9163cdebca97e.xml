@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<game game-type="season" terminated-early="true" uuid="77374ced2d7a421fbbe9163cdebca97e" version="2.1">
+  <meta>
+    <homeTeam>
+      <team defStrat="2-3" discordId="327486880394510356" fullName="Fighting Illini" id="illinois" offStrat="4-Out" shortName="Illinois"/>
+    </homeTeam>
+    <awayTeam>
+      <team defStrat="1-3-1" discordId="701221250776825856" fullName="Hawkeyes" id="iowa" offStrat="ISO" shortName="Iowa"/>
+    </awayTeam>
+    <startTime>1643043905487</startTime>
+    <gameTitle>Week Fourteen (Big 10)</gameTitle>
+    <channelName>ill-vs-iowa</channelName>
+  </meta>
+  <scores>
+    <quarter away="17" home="25" q="F"/>
+    <quarter away="6" home="9" q="1"/>
+    <quarter away="11" home="16" q="2"/>
+    <quarter away="0" home="0" q="3"/>
+    <quarter away="0" home="0" q="4"/>
+  </scores>
+  <plays>
+    <tipoff away="680" home="75" tip="489"/>
+    <play numDef="65" numOff="779" pos="away" pts="3" q="1" result="miss"/>
+    <play numDef="359" numOff="308" pos="home" pts="2" q="1" result="made"/>
+    <play numDef="963" numOff="670" pos="away" pts="3" q="1" result="miss"/>
+    <play numDef="970" numOff="731" offStrat="chew" pos="home" pts="2" q="1" result="made"/>
+    <play numDef="252" numOff="110" pos="away" pts="3" q="1" result="made"/>
+    <play numDef="700" numOff="353" pos="home" pts="3" q="1" result="miss"/>
+    <play numDef="422" numOff="670" pos="away" pts="3" q="1" result="rebound"/>
+    <play numDef="861" numOff="110" pos="away" pts="3" q="1" result="rebound"/>
+    <play numDef="70" numOff="829" pos="away" pts="3" q="1" result="rebound"/>
+    <play numDef="40" numOff="670" pos="away" pts="3" q="1" result="miss"/>
+    <play numDef="359" numOff="600" pos="home" pts="3" q="1" result="miss"/>
+    <play numDef="536" numOff="134" pos="away" pts="3" q="1" result="miss"/>
+    <play numDef="9" numOff="107" pos="home" pts="2" q="1" result="made"/>
+    <play numDef="898" numOff="780" pos="away" pts="3" q="1" result="made"/>
+    <play numDef="240" numOff="465" pos="home" pts="3" q="1" result="rebound"/>
+    <play numDef="245" numOff="70" pos="home" pts="2" q="1" result="made"/>
+    <play numDef="51" numOff="660" pos="away" pts="3" q="1" result="miss"/>
+    <play numDef="359" numOff="821" offStrat="hurry" pos="home" pts="3" q="1" result="turnover"/>
+    <play numDef="775" numOff="770" pos="away" pts="3" q="2" result="and1"/>
+    <playFT numDef="385" numOff="570" pos="away" q="2" throws="1" throwsMade="1"/>
+    <play numDef="780" numOff="830" pos="home" pts="2" q="2" result="made"/>
+    <play numDef="925" numOff="770" pos="away" pts="3" q="2" result="made"/>
+    <play numDef="110" numOff="217" pos="home" pts="3" q="2" result="made"/>
+    <play numDef="653" numOff="110" pos="away" pts="3" q="2" result="turnover"/>
+    <play numDef="82" numOff="86" pos="home" pts="3" q="2" result="and1"/>
+    <playFT numDef="78" numOff="34" pos="home" q="2" throws="1" throwsMade="1"/>
+    <play numDef="245" numOff="910" pos="away" pts="3" q="2" result="miss"/>
+    <play numDef="566" numOff="330" pos="home" pts="2" q="2" result="made"/>
+    <play numDef="2" numOff="450" pos="away" pts="3" q="2" result="turnover"/>
+    <play numDef="2" numOff="500" offStrat="chew" pos="home" pts="3" q="2" result="dunk"/>
+    <play numDef="770" numOff="440" pos="home" pts="2" q="2" result="foul"/>
+    <playFT numDef="829" numOff="730" pos="home" q="2" throws="2" throwsMade="2"/>
+    <play numDef="2" numOff="770" pos="away" pts="3" q="2" result="foul"/>
+    <playFT numDef="76" numOff="668" pos="away" q="2" throws="3" throwsMade="1"/>
+    <play numDef="111" numOff="670" pos="home" pts="2" q="2" result="turnover"/>
+    <play numDef="426" numOff="670" pos="away" pts="3" q="2" result="rebound"/>
+  </plays>
+</game>
