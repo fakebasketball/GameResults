@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<game game-type="season" terminated-early="true" uuid="43681a8278f64c168a50c916569947bf" version="2.1">
+  <meta>
+    <homeTeam>
+      <team defStrat="MAN" discordId="356643200469041155" fullName="Sooners" id="oklahoma" offStrat="4-Out" shortName="Oklahoma"/>
+    </homeTeam>
+    <awayTeam>
+      <team defStrat="1-3-1" discordId="446448126757437440" fullName="Bears" id="baylor" offStrat="4-Out" shortName="Baylor"/>
+    </awayTeam>
+    <startTime>1643649396940</startTime>
+    <gameTitle>Week Fifteen (Big 12)</gameTitle>
+    <channelName>ou-vs-bay</channelName>
+  </meta>
+  <scores>
+    <quarter away="32" home="21" q="F"/>
+    <quarter away="18" home="15" q="1"/>
+    <quarter away="14" home="6" q="2"/>
+    <quarter away="0" home="0" q="3"/>
+    <quarter away="0" home="0" q="4"/>
+  </scores>
+  <plays>
+    <tipoff away="500" home="77" tip="185"/>
+    <play numDef="98" numOff="578" offStrat="chew" pos="home" pts="2" q="1" result="dunk"/>
+    <play numDef="143" numOff="123" offStrat="chew" pos="home" pts="2" q="1" result="and1"/>
+    <playFT numDef="150" numOff="666" pos="home" q="1" throws="1" throwsMade="0"/>
+    <play numDef="289" numOff="520" pos="away" pts="2" q="1" result="made"/>
+    <play numDef="353" numOff="882" offStrat="chew" pos="home" pts="2" q="1" result="dunk"/>
+    <play numDef="209" numOff="555" offStrat="chew" pos="home" pts="2" q="1" result="rebound"/>
+    <play numDef="999" numOff="662" offStrat="chew" pos="home" pts="2" q="1" result="foul"/>
+    <playFT numDef="559" numOff="333" pos="home" q="1" throws="2" throwsMade="2"/>
+    <play numDef="390" numOff="350" pos="away" pts="2" q="1" result="made"/>
+    <play numDef="224" numOff="78" offStrat="chew" pos="home" pts="2" q="1" result="made"/>
+    <play numDef="816" numOff="846" pos="away" pts="3" q="1" result="made"/>
+    <play numDef="329" numOff="66" offStrat="chew" pos="home" pts="2" q="1" result="made"/>
+    <play numDef="829" numOff="750" pos="away" pts="2" q="1" result="made"/>
+    <play numDef="535" numOff="223" offStrat="chew" pos="home" pts="2" q="1" result="foul"/>
+    <playFT numDef="732" numOff="773" pos="home" q="1" throws="2" throwsMade="2"/>
+    <play numDef="99" numOff="161" pos="away" pts="2" q="1" result="made"/>
+    <play numDef="453" numOff="772" offStrat="chew" pos="home" pts="2" q="1" result="foul"/>
+    <playFT numDef="20" numOff="239" pos="home" q="1" throws="2" throwsMade="2"/>
+    <play numDef="37" numOff="498" pos="away" pts="2" q="1" result="turnover"/>
+    <play numDef="421" numOff="626" pos="home" pts="2" q="1" result="made"/>
+    <playFT numDef="625" numOff="23" pos="away" q="2" throws="2" throwsMade="1"/>
+    <play numDef="43" numOff="772" offStrat="chew" pos="home" pts="2" q="2" result="made"/>
+    <play numDef="99" numOff="151" pos="away" pts="3" q="2" result="made"/>
+    <play numDef="516" numOff="772" offStrat="chew" pos="home" pts="2" q="2" result="made"/>
+    <play numDef="939" numOff="444" pos="away" pts="2" q="2" result="dunk"/>
+    <play numDef="444" numOff="430" pos="away" pts="2" q="2" result="and1"/>
+    <playFT numDef="52" numOff="350" pos="away" q="2" throws="1" throwsMade="1"/>
+    <play numDef="203" numOff="782" offStrat="chew" pos="home" pts="2" q="2" result="miss"/>
+    <play numDef="249" numOff="340" offStrat="chew" pos="away" pts="2" q="2" result="made"/>
+  </plays>
+</game>
