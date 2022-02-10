@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<game game-type="season" terminated-early="true" uuid="abce6e2d4f94460b93c9b25fd69465ab" version="2.1">
+  <meta>
+    <homeTeam>
+      <team defStrat="MAN" discordId="348358249734602766" fullName="Hoyas" id="georgetown" offStrat="5-Out" shortName="Georgetown"/>
+    </homeTeam>
+    <awayTeam>
+      <team defStrat="1-3-1" discordId="158306211568025600" fullName="Sun Devils" id="arizonast" offStrat="ISO" shortName="Arizona State"/>
+    </awayTeam>
+    <startTime>1644254095966</startTime>
+    <gameTitle>Week Sixteen (Non-Conference)</gameTitle>
+    <channelName>gtwn-vs-13-asu</channelName>
+  </meta>
+  <scores>
+    <quarter away="38" home="29" q="F"/>
+    <quarter away="31" home="16" q="1"/>
+    <quarter away="7" home="13" q="2"/>
+    <quarter away="0" home="0" q="3"/>
+    <quarter away="0" home="0" q="4"/>
+  </scores>
+  <plays>
+    <tipoff away="777" home="8" tip="149"/>
+    <play numDef="772" numOff="500" pos="home" pts="2" q="1" result="made"/>
+    <play numDef="400" numOff="458" offStrat="hurry" pos="away" pts="3" q="1" result="made"/>
+    <play numDef="999" numOff="400" pos="home" pts="2" q="1" result="miss"/>
+    <play numDef="100" numOff="32" offStrat="hurry" pos="away" pts="3" q="1" result="made"/>
+    <play numDef="77" numOff="200" pos="home" pts="2" q="1" result="made"/>
+    <play numDef="510" numOff="1" offStrat="hurry" pos="away" pts="3" q="1" result="dunk"/>
+    <play numDef="913" numOff="54" offStrat="hurry" pos="away" pts="3" q="1" result="made"/>
+    <play numDef="600" numOff="800" pos="home" pts="2" q="1" result="made"/>
+    <play numDef="2" numOff="10" offStrat="hurry" pos="away" pts="3" q="1" result="and1"/>
+    <playFT numDef="700" numOff="4" pos="away" q="1" throws="1" throwsMade="1"/>
+    <play numDef="666" numOff="500" pos="home" pts="2" q="1" result="made"/>
+    <play numDef="400" numOff="59" offStrat="hurry" pos="away" pts="3" q="1" result="miss"/>
+    <play numDef="545" numOff="400" pos="home" pts="3" q="1" result="made"/>
+    <play numDef="278" numOff="39" offStrat="hurry" pos="away" pts="3" q="1" result="rebound"/>
+    <play numDef="388" numOff="47" offStrat="hurry" pos="away" pts="3" q="1" result="miss"/>
+    <play numDef="219" numOff="800" pos="home" pts="3" q="1" result="turnover"/>
+    <play numDef="100" numOff="39" offStrat="hurry" pos="away" pts="3" q="1" result="made"/>
+    <play numDef="777" numOff="300" pos="home" pts="3" q="1" result="dunk"/>
+    <play numDef="777" numOff="400" pos="home" pts="3" q="1" result="miss"/>
+    <play numDef="777" numOff="10" offStrat="hurry" pos="away" pts="3" q="1" result="rebound"/>
+    <play numDef="900" numOff="1" offStrat="hurry" pos="away" pts="3" q="1" result="made"/>
+    <play numDef="33" numOff="300" pos="home" pts="2" q="1" result="made"/>
+    <play numDef="555" numOff="300" offStrat="hurry" pos="away" pts="3" q="1" result="rebound"/>
+    <play numDef="555" numOff="300" offStrat="hurry" pos="away" pts="3" q="1" result="rebound"/>
+    <play numDef="5" numOff="777" offStrat="hurry" pos="away" pts="3" q="1" result="foul"/>
+    <playFT numDef="800" numOff="434" pos="away" q="1" throws="3" throwsMade="1"/>
+    <playFT numDef="800" numOff="482" pos="away" q="1" throws="2" throwsMade="1"/>
+    <play numDef="201" numOff="600" pos="home" pts="2" q="1" result="miss"/>
+    <play numDef="100" numOff="30" pos="away" pts="3" q="1" result="made"/>
+    <play numDef="600" numOff="600" pos="home" pts="2" q="2" result="and1made"/>
+    <play numDef="600" numOff="1" offStrat="hurry" pos="away" pts="3" q="2" result="miss"/>
+    <play numDef="600" numOff="800" pos="home" pts="2" q="2" result="made"/>
+    <play numDef="400" numOff="312" offStrat="hurry" pos="away" pts="3" q="2" result="made"/>
+    <play numDef="777" numOff="900" pos="home" pts="2" q="2" result="made"/>
+    <play numDef="640" numOff="40" offStrat="hurry" pos="away" pts="3" q="2" result="miss"/>
+    <play numDef="500" numOff="500" pos="home" pts="2" q="2" result="and1made"/>
+    <play numDef="122" numOff="10" offStrat="hurry" pos="away" pts="3" q="2" result="made"/>
+    <play numDef="777" numOff="500" pos="home" pts="3" q="2" result="miss"/>
+    <play numDef="348" numOff="777" offStrat="hurry" pos="away" pts="3" q="2" result="turnover"/>
+    <play numDef="420" numOff="400" pos="home" pts="3" q="2" result="made"/>
+  </plays>
+</game>
