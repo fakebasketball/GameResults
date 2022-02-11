@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<game game-type="season" terminated-early="true" uuid="e477ebfe91f94b04a627c2cbac05285d" version="2.1">
+  <meta>
+    <homeTeam>
+      <team defStrat="MAN" discordId="771511565425180702" fullName="Buffaloes" id="colorado" offStrat="4-Out" shortName="Colorado"/>
+    </homeTeam>
+    <awayTeam>
+      <team defStrat="MAN" discordId="203412994720399360" fullName="Beavers" id="oregonst" offStrat="5-Out" shortName="Oregon State"/>
+    </awayTeam>
+    <startTime>1644254085561</startTime>
+    <gameTitle>Week Sixteen (Pac 12)</gameTitle>
+    <channelName>col-vs-orst</channelName>
+  </meta>
+  <scores>
+    <quarter away="18" home="25" q="F"/>
+    <quarter away="16" home="18" q="1"/>
+    <quarter away="2" home="7" q="2"/>
+    <quarter away="0" home="0" q="3"/>
+    <quarter away="0" home="0" q="4"/>
+  </scores>
+  <plays>
+    <tipoff away="188" home="750" tip="484"/>
+    <play numDef="788" numOff="717" pos="home" pts="2" q="1" result="made"/>
+    <play numDef="333" numOff="555" pos="away" pts="2" q="1" result="made"/>
+    <play numDef="877" numOff="450" pos="home" pts="2" q="1" result="turnover"/>
+    <play numDef="250" numOff="277" pos="away" pts="2" q="1" result="and1"/>
+    <playFT numDef="717" numOff="666" pos="away" q="1" throws="1" throwsMade="1"/>
+    <play numDef="456" numOff="305" pos="home" pts="3" q="1" result="made"/>
+    <play numDef="100" numOff="55" pos="away" pts="2" q="1" result="made"/>
+    <play numDef="666" numOff="410" pos="home" pts="3" q="1" result="miss"/>
+    <play numDef="250" numOff="989" pos="away" pts="2" q="1" result="made"/>
+    <play numDef="788" numOff="330" pos="home" pts="3" q="1" result="turnover"/>
+    <play numDef="125" numOff="199" pos="away" pts="2" q="1" result="made"/>
+    <play numDef="727" numOff="500" pos="home" pts="3" q="1" result="rebound"/>
+    <play numDef="123" numOff="667" pos="home" pts="3" q="1" result="turnover"/>
+    <play numDef="1000" numOff="123" pos="away" pts="2" q="1" result="made"/>
+    <play numDef="1" numOff="750" pos="home" pts="2" q="1" result="made"/>
+    <play numDef="444" numOff="529" pos="away" pts="2" q="1" result="made"/>
+    <play numDef="112" numOff="130" pos="home" pts="2" q="1" result="and1"/>
+    <playFT numDef="777" numOff="450" pos="home" q="1" throws="2" throwsMade="1"/>
+    <play numDef="800" numOff="333" pos="away" pts="2" q="1" result="turnover"/>
+    <play numDef="455" numOff="100" pos="home" pts="3" q="1" result="miss"/>
+    <play numDef="890" numOff="344" pos="away" pts="2" q="1" result="turnover"/>
+    <play numDef="123" numOff="340" offStrat="chew" pos="home" pts="3" q="1" result="foul"/>
+    <playFT numDef="1" numOff="555" pos="home" q="1" throws="3" throwsMade="1"/>
+    <play numDef="159" numOff="500" pos="away" pts="3" q="2" result="miss"/>
+    <play numDef="233" numOff="444" pos="home" pts="2" q="2" result="made"/>
+    <play numDef="678" numOff="888" pos="away" pts="2" q="2" result="made"/>
+    <play numDef="233" numOff="500" pos="home" pts="2" q="2" result="made"/>
+    <play numDef="700" numOff="123" pos="away" pts="2" q="2" result="miss"/>
+    <play numDef="345" numOff="410" pos="home" pts="2" q="2" result="made"/>
+  </plays>
+</game>
