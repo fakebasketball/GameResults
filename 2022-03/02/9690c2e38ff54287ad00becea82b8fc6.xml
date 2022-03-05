@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<game game-type="scrim" terminated-early="true" uuid="9690c2e38ff54287ad00becea82b8fc6" version="2.1">
+  <meta>
+    <homeTeam>
+      <team defStrat="MAN" discordId="233663350117105665" fullName="Tigers" id="lsu" offStrat="ISO" shortName="LSU"/>
+    </homeTeam>
+    <awayTeam>
+      <team defStrat="MAN" discordId="945930688463511633" fullName="Wildcats" id="kansasst" offStrat="4-Out" shortName="Kansas State"/>
+    </awayTeam>
+    <startTime>1646205469105</startTime>
+    <gameTitle>Scrim</gameTitle>
+    <channelName>lsu-kansas state-scrim</channelName>
+  </meta>
+  <scores>
+    <quarter away="12" home="4" q="F"/>
+    <quarter away="12" home="4" q="1"/>
+    <quarter away="0" home="0" q="2"/>
+    <quarter away="0" home="0" q="3"/>
+    <quarter away="0" home="0" q="4"/>
+  </scores>
+  <plays>
+    <tipoff away="400" home="69" tip="110"/>
+    <play numDef="750" numOff="300" pos="home" pts="3" q="1" result="turnover"/>
+    <play numDef="1" numOff="50" pos="away" pts="2" q="1" result="made"/>
+    <playFT numDef="1000" numOff="250" pos="away" q="1" throws="2" throwsMade="1"/>
+    <play numDef="250" numOff="300" pos="home" pts="3" q="1" result="made"/>
+    <play numDef="600" numOff="780" pos="away" pts="2" q="1" result="made"/>
+    <play numDef="34" numOff="700" pos="home" pts="3" q="1" result="miss"/>
+    <play numDef="69" numOff="500" pos="away" pts="2" q="1" result="turnover"/>
+  </plays>
+</game>
